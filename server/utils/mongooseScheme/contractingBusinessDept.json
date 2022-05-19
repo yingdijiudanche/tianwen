@@ -1,0 +1,227 @@
+{
+  "fields": [
+    {
+      "name": "_id",
+      "path": "_id",
+      "count": 22,
+      "types": [
+        {
+          "name": "ObjectID",
+          "bsonType": "ObjectID",
+          "path": "_id",
+          "count": 22,
+          "values": [
+            "61e4d54c3b517b07b168a99c",
+            "61e4d54c3b517b07b168a99d",
+            "61e4d54c3b517b07b168a99e",
+            "61e4d54c3b517b07b168a99f",
+            "61e4d54c3b517b07b168a9a0",
+            "61e4d54c3b517b07b168a9a1",
+            "61e4d54c3b517b07b168a9a2",
+            "61e4d54c3b517b07b168a9a3",
+            "61e4d54c3b517b07b168a9a4",
+            "61e4d54c3b517b07b168a9a5",
+            "61e4d54c3b517b07b168a9a6",
+            "61e4d54c3b517b07b168a9a7",
+            "61e4d54c3b517b07b168a9a8",
+            "61e4d54c3b517b07b168a9a9",
+            "61e4d54c3b517b07b168a9aa",
+            "61e4d54c3b517b07b168a9ab",
+            "61e4d54c3b517b07b168a9ac",
+            "61e4d54c3b517b07b168a9ad",
+            "61e4d54c3b517b07b168a9ae",
+            "61e4d54c3b517b07b168a9af",
+            "61e4d54c3b517b07b168a9b0",
+            "61e4d54c3b517b07b168a9b1"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 22,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 22,
+      "type": "ObjectID",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "disable",
+      "path": "disable",
+      "count": 22,
+      "types": [
+        {
+          "name": "Null",
+          "bsonType": "Null",
+          "path": "disable",
+          "count": 22,
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 22,
+      "type": "Null",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "lastUpdateby",
+      "path": "lastUpdateby",
+      "count": 22,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "lastUpdateby",
+          "count": 22,
+          "values": [
+            "System",
+            "System",
+            "System",
+            "System",
+            "System",
+            "System",
+            "System",
+            "System",
+            "System",
+            "System",
+            "System",
+            "System",
+            "System",
+            "System",
+            "System",
+            "System",
+            "System",
+            "System",
+            "System",
+            "System",
+            "System",
+            "System"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 22,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "lastUpdateDate",
+      "path": "lastUpdateDate",
+      "count": 22,
+      "types": [
+        {
+          "name": "Null",
+          "bsonType": "Null",
+          "path": "lastUpdateDate",
+          "count": 22,
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 22,
+      "type": "Null",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "type",
+      "path": "type",
+      "count": 22,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "type",
+          "count": 22,
+          "values": [
+            "contractingBusinessDept",
+            "contractingBusinessDept",
+            "contractingBusinessDept",
+            "contractingBusinessDept",
+            "contractingBusinessDept",
+            "contractingBusinessDept",
+            "contractingBusinessDept",
+            "contractingBusinessDept",
+            "contractingBusinessDept",
+            "contractingBusinessDept",
+            "contractingBusinessDept",
+            "contractingBusinessDept",
+            "contractingBusinessDept",
+            "contractingBusinessDept",
+            "contractingBusinessDept",
+            "contractingBusinessDept",
+            "contractingBusinessDept",
+            "contractingBusinessDept",
+            "contractingBusinessDept",
+            "contractingBusinessDept",
+            "contractingBusinessDept",
+            "contractingBusinessDept"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 22,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "value",
+      "path": "value",
+      "count": 22,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "value",
+          "count": 22,
+          "values": [
+            "CBD",
+            "EMD",
+            "GED",
+            "PSD",
+            "UFD",
+            "EDO",
+            "GTP",
+            "WTP",
+            "CCF",
+            "CSF",
+            "FAF",
+            "FMF",
+            "HRF",
+            "FAF",
+            "FMF",
+            "HRF",
+            "ITF",
+            "CSU",
+            "DDU",
+            "MBU",
+            "MSU",
+            "TIU"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 19,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 22,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    }
+  ],
+  "count": 22
+}

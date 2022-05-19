@@ -1,0 +1,4995 @@
+[{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9b2"
+  },
+  "vehicleID": 314,
+  "licenceNumber": "BB2688",
+  "VRDClass": "Private Car",
+  "VRDMake": "MERCEDES BENZ",
+  "carModel": "S 500 L",
+  "chassisNumber": "WDB220175-2A-048213",
+  "engineNo": "113960-30-091938",
+  "VRDCylinderCapacity": 4966,
+  "VRDColor": "Green",
+  "VRDBodyType": "Saloon",
+  "VRDGW": "",
+  "VRDYearOfManufacture": 1999,
+  "dateOfFirstRegistration": {
+    "$date": "1999-07-19T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "Wong Kam Fai",
+  "type": "61e4d54d3b517b07b168e1be",
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "不用續牌",
+  "licenseRenewal": 9534,
+  "purposeOfVehicle": "私家車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": false,
+  "autotollAccount": "73393",
+  "autotollCode": "CHTC00511599",
+  "GPSUnitNo": "No GPS",
+  "GPSInstallation": false,
+  "gasCardNo": "7002821056978002069",
+  "driverName": "王國強",
+  "mainDriverStaffId": "KS00005",
+  "projectNo": "",
+  "company": "KFC",
+  "department": "EDO",
+  "marketFunction": "EDO-KKW",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2019-04-01T00:00:00Z"
+  },
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2017-08-24T15:15:26.223Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "EDO"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9b3"
+  },
+  "vehicleID": 315,
+  "licenceNumber": "CK6998",
+  "VRDClass": "Private Car",
+  "VRDMake": "TOYOTA",
+  "carModel": "ALPHARD",
+  "chassisNumber": "JTEGS21H908066780",
+  "engineNo": "2GR-0871141",
+  "VRDCylinderCapacity": 3456,
+  "VRDColor": "Beige-Var",
+  "VRDBodyType": "Station Waggon",
+  "VRDGW": "",
+  "VRDYearOfManufacture": 2012,
+  "dateOfFirstRegistration": {
+    "$date": "2012-10-04T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1be"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "11",
+  "licenseRenewal": {
+    "$numberDecimal": "7664.00"
+  },
+  "purposeOfVehicle": "私家車 (七座位)",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": false,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00781949",
+  "GPSUnitNo": "864507031103723",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978010914",
+  "driverName": "王國強",
+  "mainDriverStaffId": "KS00005",
+  "projectNo": "",
+  "company": "KFC",
+  "department": "EDO",
+  "marketFunction": "EDO-KKW",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟5期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2019-10-01T00:00:00Z"
+  },
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2019-10-14T16:17:29.947Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": "Support",
+  "allocationCoding": {
+    "$oid": "61e4d52e3b517b07b1677fdb"
+  },
+  "userGrading": "ED-G",
+  "roundedMonthlyRate": 7800,
+  "vehicleValue": {
+    "$numberDecimal": "759000.00"
+  },
+  "assetNo": "",
+  "contractingBusinessDept": "EDO"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9b4"
+  },
+  "vehicleID": 316,
+  "licenceNumber": "EZ9968",
+  "VRDClass": "Private Car",
+  "VRDMake": "NISSAN",
+  "carModel": "TIIDA GREEN SEDAN 1.5L",
+  "chassisNumber": "SC11-311673",
+  "engineNo": "HR15-285797C",
+  "VRDCylinderCapacity": 1498,
+  "VRDColor": "White",
+  "VRDBodyType": "Saloon",
+  "VRDGW": "",
+  "VRDYearOfManufacture": 2011,
+  "dateOfFirstRegistration": {
+    "$date": "2012-02-14T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1be"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "3929.00"
+  },
+  "purposeOfVehicle": "私家車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00577194",
+  "GPSUnitNo": "13510000903",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978000733",
+  "driverName": "伍智聰",
+  "mainDriverStaffId": "KS00386",
+  "projectNo": "EC80138-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "EMSD",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "宋王臺道公眾停車場",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟5期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2017-08-24T12:32:14.247Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9b5"
+  },
+  "vehicleID": 317,
+  "licenceNumber": "FS6636",
+  "VRDClass": "Private Car",
+  "VRDMake": "NISSAN",
+  "carModel": "TIIDA GREEN SEDAN 1.5L",
+  "chassisNumber": "SC11-310927",
+  "engineNo": "HR15-268677C",
+  "VRDCylinderCapacity": 1498,
+  "VRDColor": "White",
+  "VRDBodyType": "Saloon",
+  "VRDGW": "",
+  "VRDYearOfManufacture": 2011,
+  "dateOfFirstRegistration": {
+    "$date": "2012-02-14T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1be"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2019-11-12T00:00:00Z"
+  },
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "3929.00"
+  },
+  "purposeOfVehicle": "私家車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00555915",
+  "GPSUnitNo": "864507031104887",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978000741",
+  "driverName": "熊永發",
+  "mainDriverStaffId": "KS00031",
+  "projectNo": "",
+  "company": "KFC",
+  "department": "FMF",
+  "marketFunction": "FM-Direct Expenditure",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟5期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": null,
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2021-01-07T08:16:22.503Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": "Support",
+  "allocationCoding": {
+    "$oid": "61e4d52e3b517b07b1677fda"
+  },
+  "userGrading": "OTH-G",
+  "roundedMonthlyRate": 2280,
+  "vehicleValue": {
+    "$numberDecimal": "151661.00"
+  },
+  "assetNo": "",
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9b6"
+  },
+  "vehicleID": 318,
+  "licenceNumber": "FV573",
+  "VRDClass": "Private Car",
+  "VRDMake": "丰田",
+  "carModel": "埃尔法JTEGS21H",
+  "chassisNumber": "JTEGS21H1B8049541",
+  "engineNo": null,
+  "VRDCylinderCapacity": null,
+  "VRDColor": "晨光金",
+  "VRDBodyType": null,
+  "VRDGW": null,
+  "VRDYearOfManufacture": 2011,
+  "dateOfFirstRegistration": null,
+  "VRDRegisteredOwner": "东莞市金城实业有限公司",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1be"
+  },
+  "status": "In Use",
+  "scrapDate": null,
+  "renewalMonth": "大陸車",
+  "licenseRenewal": null,
+  "purposeOfVehicle": " 內地車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": false,
+  "autotollAccount": "73393",
+  "autotollCode": "No",
+  "GPSUnitNo": "No GPS",
+  "GPSInstallation": false,
+  "gasCardNo": "No",
+  "driverName": "王國強",
+  "mainDriverStaffId": "KS00005",
+  "projectNo": null,
+  "company": "KFC",
+  "department": "EDO",
+  "marketFunction": "EDO-KKW",
+  "branchLocation": null,
+  "customerCode": null,
+  "subcontractorCode": null,
+  "activityCode": null,
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": null,
+  "roadPermitNo": null,
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": null,
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2020-05-15T10:42:23Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "EDO"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9b7"
+  },
+  "vehicleID": 319,
+  "licenceNumber": "GT8893",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "ISUZU",
+  "carModel": "Isuzu - Drop Side Platform",
+  "chassisNumber": "JAANPR70L27100312",
+  "engineNo": "4HE1-878789",
+  "VRDCylinderCapacity": 4751,
+  "VRDColor": "Blue / Yellow",
+  "VRDBodyType": "Drop Side Platform",
+  "VRDGW": "5.5",
+  "VRDYearOfManufacture": 2002,
+  "dateOfFirstRegistration": {
+    "$date": "2002-05-28T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c0"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2019-12-31T00:00:00Z"
+  },
+  "renewalMonth": "10",
+  "licenseRenewal": {
+    "$numberDecimal": "2404.00"
+  },
+  "purposeOfVehicle": "排卡車",
+  "cab": "孖屋仔",
+  "bodyBuild": "排卡車",
+  "groupLogo": true,
+  "autotollAccount": "No",
+  "autotollCode": "No",
+  "GPSUnitNo": "13600004393",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978000105",
+  "driverName": "GT8893",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80150-KFC-DCD",
+  "company": "KFC",
+  "department": "DCD",
+  "marketFunction": "CLP-PSBG",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "VC0050",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "NO",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": null,
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2021-01-07T08:16:32.690Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": "Support",
+  "allocationCoding": {
+    "$oid": "61e4d52e3b517b07b1677fdc"
+  },
+  "userGrading": "OTH-L",
+  "roundedMonthlyRate": 3690,
+  "vehicleValue": {
+    "$numberDecimal": "203404.00"
+  },
+  "assetNo": "",
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9b8"
+  },
+  "vehicleID": 320,
+  "licenceNumber": "HH7514",
+  "VRDClass": "Heavy Goods Vehicle",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - Lorry Crane",
+  "chassisNumber": "FS425S-A40184",
+  "engineNo": "8DC9-515940",
+  "VRDCylinderCapacity": 16031,
+  "VRDColor": "Yellow/Yellow",
+  "VRDBodyType": "Lorry Crane",
+  "VRDGW": "30",
+  "VRDYearOfManufacture": 1997,
+  "dateOfFirstRegistration": {
+    "$date": "1997-09-11T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "PLL",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c0"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2017-10-11T00:00:00Z"
+  },
+  "renewalMonth": "利寶續牌",
+  "licenseRenewal": {
+    "$numberDecimal": "4694.00"
+  },
+  "purposeOfVehicle": "重型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00784470",
+  "GPSUnitNo": "13000080459",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978007183",
+  "driverName": "吳佩嫦 (管理)",
+  "mainDriverStaffId": "",
+  "projectNo": "",
+  "company": "PLL",
+  "department": "LSU",
+  "marketFunction": "GEN",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟二期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2017-10-11T00:00:00Z"
+  },
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2017-11-24T09:03:07.997Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9b9"
+  },
+  "vehicleID": 321,
+  "licenceNumber": "HR6250",
+  "VRDClass": "Speecial Purpose VEH.",
+  "VRDMake": "HINO",
+  "carModel": "Hino - Aerial Platform",
+  "chassisNumber": "JHDFD2JLKXXX10190",
+  "engineNo": "J08C-TJ10124",
+  "VRDCylinderCapacity": 7961,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Aerial Platform",
+  "VRDGW": "10.17",
+  "VRDYearOfManufacture": 1997,
+  "dateOfFirstRegistration": {
+    "$date": "1998-03-20T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c1"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "3",
+  "licenseRenewal": {
+    "$numberDecimal": "4694.00"
+  },
+  "purposeOfVehicle": "特別用途車 - 升降台車",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00493680",
+  "GPSUnitNo": "13600001876",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978009098",
+  "driverName": "吳國祥(管理)",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80138-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "EMSD",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "荔枝角倉",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟二期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2017-11-16T11:18:14.707Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9ba"
+  },
+  "vehicleID": 322,
+  "licenceNumber": "JD8381",
+  "VRDClass": "",
+  "VRDMake": "HONDA",
+  "carModel": "-",
+  "chassisNumber": "",
+  "engineNo": "",
+  "VRDCylinderCapacity": null,
+  "VRDColor": "",
+  "VRDBodyType": "Odyssey",
+  "VRDGW": "",
+  "VRDYearOfManufacture": null,
+  "dateOfFirstRegistration": null,
+  "VRDRegisteredOwner": "",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1be"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "7664.00"
+  },
+  "purposeOfVehicle": "私家車 (七座位)",
+  "cab": "",
+  "bodyBuild": "",
+  "groupLogo": false,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00555506",
+  "GPSUnitNo": "No GPS",
+  "GPSInstallation": false,
+  "gasCardNo": "7002821056978000766",
+  "driverName": "劉耀輝",
+  "mainDriverStaffId": "KS00019",
+  "projectNo": "EC80002-KFC-DCD",
+  "company": "KFC",
+  "department": "DCD",
+  "marketFunction": "CLP-PSBG",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "新寶停車場",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2017-08-15T15:40:33.487Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "PSD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9bb"
+  },
+  "vehicleID": 324,
+  "licenceNumber": "KF2688",
+  "VRDClass": "Private Car",
+  "VRDMake": "TOYOTA",
+  "carModel": "Camry",
+  "chassisNumber": "JTNBD4FK003001219",
+  "engineNo": "2AR-0599358",
+  "VRDCylinderCapacity": 2494,
+  "VRDColor": "Green",
+  "VRDBodyType": "Saloon",
+  "VRDGW": "",
+  "VRDYearOfManufacture": 2011,
+  "dateOfFirstRegistration": {
+    "$date": "2012-01-10T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1be"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2021-03-03T00:00:00Z"
+  },
+  "renewalMonth": "1",
+  "licenseRenewal": {
+    "$numberDecimal": "5794.00"
+  },
+  "purposeOfVehicle": "私家車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": false,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00612603",
+  "GPSUnitNo": "13600003780",
+  "GPSInstallation": false,
+  "gasCardNo": "7002821056978002085",
+  "driverName": "王紹恆",
+  "mainDriverStaffId": "KS00301",
+  "projectNo": null,
+  "company": "KFC",
+  "department": "EDO",
+  "marketFunction": "EDO-RW",
+  "branchLocation": null,
+  "customerCode": null,
+  "subcontractorCode": null,
+  "activityCode": null,
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "新寶停車場",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟5期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": null,
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2021-03-10T15:40:41.453Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": "Specific",
+  "allocationCoding": {
+    "$oid": "61e4d52e3b517b07b1677fdb"
+  },
+  "userGrading": "ED-G",
+  "roundedMonthlyRate": 4220,
+  "vehicleValue": {
+    "$numberDecimal": "388287.00"
+  },
+  "assetNo": "",
+  "contractingBusinessDept": "EDO"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9bc"
+  },
+  "vehicleID": 325,
+  "licenceNumber": "KF9928",
+  "VRDClass": "Private Car",
+  "VRDMake": "DAIMLER",
+  "carModel": "DAIMLER 4.0 X300",
+  "chassisNumber": "TD2013093",
+  "engineNo": "9JPFNB125640",
+  "VRDCylinderCapacity": 3980,
+  "VRDColor": "Red",
+  "VRDBodyType": "Saloon",
+  "VRDGW": "N/A",
+  "VRDYearOfManufacture": 1995,
+  "dateOfFirstRegistration": {
+    "$date": "1995-03-20T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1be"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2018-10-18T00:00:00Z"
+  },
+  "renewalMonth": "12",
+  "licenseRenewal": {
+    "$numberDecimal": "9534.00"
+  },
+  "purposeOfVehicle": "私家車(1)",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": false,
+  "autotollAccount": "No",
+  "autotollCode": "No",
+  "GPSUnitNo": "No GPS",
+  "GPSInstallation": false,
+  "gasCardNo": "No",
+  "driverName": "王國強",
+  "mainDriverStaffId": "KS00005",
+  "projectNo": "",
+  "company": "KFC",
+  "department": "EDO",
+  "marketFunction": "EDO-KKW",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": null,
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2018-10-19T15:17:30.917Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": "",
+  "userGrading": "",
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "EDO"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9bd"
+  },
+  "vehicleID": 326,
+  "licenceNumber": "KK2688",
+  "VRDClass": "Private Car",
+  "VRDMake": "TOYOTA",
+  "carModel": "Toyota",
+  "chassisNumber": "JTEGD54M307108242",
+  "engineNo": "2AZ-H748081",
+  "VRDCylinderCapacity": 2362,
+  "VRDColor": "Green",
+  "VRDBodyType": "Station Waggon",
+  "VRDGW": "N/A",
+  "VRDYearOfManufacture": 2011,
+  "dateOfFirstRegistration": {
+    "$date": "2012-01-10T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1be"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2018-09-05T00:00:00Z"
+  },
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "5794.00"
+  },
+  "purposeOfVehicle": "私家車 (七座位)",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": false,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00612604",
+  "GPSUnitNo": "No GPS",
+  "GPSInstallation": false,
+  "gasCardNo": "7002821056978002101",
+  "driverName": "王紹基",
+  "mainDriverStaffId": "KS00239",
+  "projectNo": "",
+  "company": "KFC",
+  "department": "EDO",
+  "marketFunction": "EDO-IW",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "新寶停車場",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟5期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": null,
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2018-10-16T09:39:59.247Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": "",
+  "userGrading": "",
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "EDO"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9be"
+  },
+  "vehicleID": 327,
+  "licenceNumber": "UW372",
+  "VRDClass": "Private Car",
+  "VRDMake": "MERCEDES BENZ",
+  "carModel": "S500L",
+  "chassisNumber": "WDD2211712A334877",
+  "engineNo": "27396130366883",
+  "VRDCylinderCapacity": 5461,
+  "VRDColor": "Green",
+  "VRDBodyType": "Saloon",
+  "VRDGW": "N/A",
+  "VRDYearOfManufacture": 2010,
+  "dateOfFirstRegistration": {
+    "$date": "2010-06-17T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1be"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2018-07-04T00:00:00Z"
+  },
+  "renewalMonth": "6",
+  "licenseRenewal": {
+    "$numberDecimal": "11329.00"
+  },
+  "purposeOfVehicle": "私家車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": false,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00774212",
+  "GPSUnitNo": "No GPS",
+  "GPSInstallation": false,
+  "gasCardNo": "7002821056978008686",
+  "driverName": "王國強",
+  "mainDriverStaffId": "KS00005",
+  "projectNo": "",
+  "company": "KFC",
+  "department": "EDO",
+  "marketFunction": "EDO-KKW",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟5期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": null,
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2018-07-05T10:15:17.523Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": "",
+  "userGrading": "",
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9bf"
+  },
+  "vehicleID": 328,
+  "licenceNumber": "KS333",
+  "VRDClass": "Private Car",
+  "VRDMake": "TOYOTA",
+  "carModel": "VELLFIRE 3.5Z EDITION",
+  "chassisNumber": "GGH20-8030585",
+  "engineNo": "2GR-0714330",
+  "VRDCylinderCapacity": 3456,
+  "VRDColor": "Purple",
+  "VRDBodyType": "Station Waggon",
+  "VRDGW": null,
+  "VRDYearOfManufacture": 2009,
+  "dateOfFirstRegistration": {
+    "$date": "2010-03-01T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1be"
+  },
+  "status": "In Use",
+  "scrapDate": null,
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "7664.00"
+  },
+  "purposeOfVehicle": "私家車 (七座位)",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": false,
+  "autotollAccount": "108360",
+  "autotollCode": "CHTC00511616",
+  "GPSUnitNo": "13200181133",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978011979",
+  "driverName": "陳偉強",
+  "mainDriverStaffId": "KS00177",
+  "projectNo": null,
+  "company": "KFC",
+  "department": "EDO",
+  "marketFunction": "EDO-Direct Expenditure",
+  "branchLocation": null,
+  "customerCode": null,
+  "subcontractorCode": null,
+  "activityCode": null,
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": null,
+  "roadPermitNo": null,
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": null,
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2021-01-15T16:15:36Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": "Specific",
+  "allocationCoding": {
+    "$oid": "61e4d52e3b517b07b1677fde"
+  },
+  "userGrading": "OTH-S",
+  "roundedMonthlyRate": 6490,
+  "vehicleValue": {
+    "$numberDecimal": "617014.00"
+  },
+  "assetNo": null,
+  "contractingBusinessDept": "EDO"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9c0"
+  },
+  "vehicleID": 329,
+  "licenceNumber": "KK382",
+  "VRDClass": "Private Car",
+  "VRDMake": "NISSAN",
+  "carModel": "SERENA GREEN 2.0L SR",
+  "chassisNumber": "C26-017364",
+  "engineNo": "MR20-166564B",
+  "VRDCylinderCapacity": 1997,
+  "VRDColor": "White",
+  "VRDBodyType": "Station Waggon",
+  "VRDGW": "N/A",
+  "VRDYearOfManufacture": 2011,
+  "dateOfFirstRegistration": {
+    "$date": "2011-10-03T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1be"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "10",
+  "licenseRenewal": {
+    "$numberDecimal": "5794.00"
+  },
+  "purposeOfVehicle": "私家車 (七座位)",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00426600",
+  "GPSUnitNo": "863835026804828",
+  "GPSInstallation": true,
+  "gasCardNo": "700282105760250098",
+  "driverName": "張雅汶 (管理)",
+  "mainDriverStaffId": "#N/A",
+  "projectNo": "",
+  "company": "KFC",
+  "department": "FMF",
+  "marketFunction": "FM-Vehicle Management",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "宋王臺道公眾停車場",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟5期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-06-20T00:00:00Z"
+  },
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2018-03-02T16:44:29.367Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "EDO"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9c1"
+  },
+  "vehicleID": 330,
+  "licenceNumber": "KK6998",
+  "VRDClass": "Private Car",
+  "VRDMake": "TOYOTA",
+  "carModel": "Camry",
+  "chassisNumber": "JTNBD4FK603001192",
+  "engineNo": "2AR-0596906",
+  "VRDCylinderCapacity": 2494,
+  "VRDColor": "0",
+  "VRDBodyType": "Saloon",
+  "VRDGW": "",
+  "VRDYearOfManufacture": 2011,
+  "dateOfFirstRegistration": {
+    "$date": "2012-01-10T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1be"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2020-11-30T00:00:00Z"
+  },
+  "renewalMonth": "1",
+  "licenseRenewal": {
+    "$numberDecimal": "5794.00"
+  },
+  "purposeOfVehicle": "私家車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": false,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00612602",
+  "GPSUnitNo": "No GPS",
+  "GPSInstallation": false,
+  "gasCardNo": "7002821056978002135",
+  "driverName": "區定漢",
+  "mainDriverStaffId": "",
+  "projectNo": "",
+  "company": "KFC",
+  "department": "EDO",
+  "marketFunction": "EDO-PA",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "新寶停車場",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟5期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": null,
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2021-01-07T09:18:09.257Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": "Specific",
+  "allocationCoding": {
+    "$oid": "61e4d52e3b517b07b1677fdb"
+  },
+  "userGrading": "ED-G",
+  "roundedMonthlyRate": 4220,
+  "vehicleValue": {
+    "$numberDecimal": "388287.00"
+  },
+  "assetNo": "",
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9c2"
+  },
+  "vehicleID": 331,
+  "licenceNumber": "TS4014",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "NISSAN",
+  "carModel": "NV350 URVAN 2.5L DIESEL A/T HALF PANEL VAN (LGV) LUX",
+  "chassisNumber": "JN1MC2E26Z0004533",
+  "engineNo": "YD25-370557A",
+  "VRDCylinderCapacity": 2488,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Van",
+  "VRDGW": "3.3",
+  "VRDYearOfManufacture": 2015,
+  "dateOfFirstRegistration": {
+    "$date": "2015-09-30T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "9",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00659261",
+  "GPSUnitNo": "13400194199",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978007290",
+  "driverName": "李家堅",
+  "mainDriverStaffId": "KS00575",
+  "projectNo": "EC80043-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "HyD",
+  "branchLocation": "Non-Public Lighting System",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "宋王臺道公眾停車場",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2020-04-27T00:00:00Z"
+  },
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2021-01-07T08:17:02.907Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": "Support",
+  "allocationCoding": {
+    "$oid": "61e4d52e3b517b07b1677fe0"
+  },
+  "userGrading": "OTH-L",
+  "roundedMonthlyRate": 3240,
+  "vehicleValue": {
+    "$numberDecimal": "262345.00"
+  },
+  "assetNo": null,
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9c3"
+  },
+  "vehicleID": 332,
+  "licenceNumber": "TS2741",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "NISSAN",
+  "carModel": "NV350 URVAN 2.5L DIESEL A/T HALF PANEL VAN (LGV) LUX",
+  "chassisNumber": "JN1MC2E26Z0004639",
+  "engineNo": "YD25-373357A",
+  "VRDCylinderCapacity": 2488,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Van",
+  "VRDGW": "3.3",
+  "VRDYearOfManufacture": 2015,
+  "dateOfFirstRegistration": {
+    "$date": "2015-09-30T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "9",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00619499",
+  "GPSUnitNo": "13420304154",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978007258",
+  "driverName": "李偉基",
+  "mainDriverStaffId": "KS00505",
+  "projectNo": "EC80138-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "EMSD",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2017-11-28T16:22:33.717Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9c4"
+  },
+  "vehicleID": 333,
+  "licenceNumber": "KUMSH1NG",
+  "VRDClass": "Private Car",
+  "VRDMake": "TOYOTA",
+  "carModel": "ALPHARD G MZ",
+  "chassisNumber": "MNH10-0072724",
+  "engineNo": "1MZ-1801912",
+  "VRDCylinderCapacity": 2994,
+  "VRDColor": "Gold",
+  "VRDBodyType": "Station Waggon",
+  "VRDGW": "",
+  "VRDYearOfManufacture": 2005,
+  "dateOfFirstRegistration": {
+    "$date": "2005-06-23T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1be"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "6",
+  "licenseRenewal": {
+    "$numberDecimal": "7664.00"
+  },
+  "purposeOfVehicle": "私家車 (七座位)",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": false,
+  "autotollAccount": "108360",
+  "autotollCode": "CHTC00595108",
+  "GPSUnitNo": "13510061158",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978000790",
+  "driverName": "吳偉康",
+  "mainDriverStaffId": "KS00920",
+  "projectNo": "",
+  "company": "KFC",
+  "department": "EDO",
+  "marketFunction": "EDO-Direct Expenditure",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2019-09-01T00:00:00Z"
+  },
+  "lastUpdateBy": "xuly.cheung",
+  "lastUpdateDate": {
+    "$date": "2019-06-19T17:10:22.127Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": "Specific",
+  "allocationCoding": {
+    "$oid": "61e4d52e3b517b07b1677fde"
+  },
+  "userGrading": "ED-G",
+  "roundedMonthlyRate": 2680,
+  "vehicleValue": {
+    "$numberDecimal": "205674.00"
+  },
+  "assetNo": "",
+  "contractingBusinessDept": "EDO"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9c5"
+  },
+  "vehicleID": 334,
+  "licenceNumber": "KW4966",
+  "VRDClass": "Speecial Purpose VEH.",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi",
+  "chassisNumber": "FK61FF-B00004",
+  "engineNo": "6M60-042255",
+  "VRDCylinderCapacity": 7545,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Others",
+  "VRDGW": "11.7",
+  "VRDYearOfManufacture": 2002,
+  "dateOfFirstRegistration": {
+    "$date": "2003-01-08T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c1"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "4694.00"
+  },
+  "purposeOfVehicle": "特別用途車 - 箭咀防撞車",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00534716",
+  "GPSUnitNo": "13200144228",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978009569",
+  "driverName": "吳國祥(管理)",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80138-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "EMSD",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "荔枝角倉",
+  "typeOfCleaningServices": "NO",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2018-01-31T11:29:40.433Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9c6"
+  },
+  "vehicleID": 335,
+  "licenceNumber": "KW5232",
+  "VRDClass": "Special Purpose VEH.",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi",
+  "chassisNumber": "FH211E-A00017",
+  "engineNo": "6D34-080917",
+  "VRDCylinderCapacity": 5861,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Others",
+  "VRDGW": "10",
+  "VRDYearOfManufacture": 2001,
+  "dateOfFirstRegistration": {
+    "$date": "2003-01-08T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c1"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "1",
+  "licenseRenewal": {
+    "$numberDecimal": "4694.00"
+  },
+  "purposeOfVehicle": "特別用途車 - 箭咀防撞車",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00872277",
+  "GPSUnitNo": "13200144351",
+  "GPSInstallation": true,
+  "gasCardNo": "NO",
+  "driverName": "KW5232",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80082-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "HyD",
+  "branchLocation": "Public Lighting System",
+  "customerCode": "CC0206",
+  "subcontractorCode": "VC0288",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "NO",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2020-02-01T00:00:00Z"
+  },
+  "lastUpdateBy": "yinmei.chow",
+  "lastUpdateDate": {
+    "$date": "2019-09-18T08:56:47.790Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": "Operation",
+  "allocationCoding": {
+    "$oid": "61e4d52e3b517b07b1677fd8"
+  },
+  "userGrading": "OTH-S",
+  "roundedMonthlyRate": 1870,
+  "vehicleValue": {
+    "$numberDecimal": "167000.00"
+  },
+  "assetNo": "",
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9c7"
+  },
+  "vehicleID": 336,
+  "licenceNumber": "KY8942",
+  "VRDClass": "Speecial Purpose VEH.",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi",
+  "chassisNumber": "FK61FF-B00007",
+  "engineNo": "6M60-047471",
+  "VRDCylinderCapacity": 7545,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Others",
+  "VRDGW": "11.7",
+  "VRDYearOfManufacture": 2002,
+  "dateOfFirstRegistration": {
+    "$date": "2003-04-14T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c1"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "4",
+  "licenseRenewal": {
+    "$numberDecimal": "4694.00"
+  },
+  "purposeOfVehicle": "特別用途車 - 箭咀防撞車",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00539870",
+  "GPSUnitNo": "13390002486",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978009601",
+  "driverName": "吳國祥(管理)",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80138-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "EMSD",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "荔枝角倉",
+  "typeOfCleaningServices": "NO",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2018-03-01T15:12:56.683Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9c8"
+  },
+  "vehicleID": 337,
+  "licenceNumber": "LF2880",
+  "VRDClass": "Private Car",
+  "VRDMake": "NISSAN",
+  "carModel": "TIIDA GREEN SEDAN 1.5L",
+  "chassisNumber": "SC11-311656",
+  "engineNo": "HR15-284701C",
+  "VRDCylinderCapacity": 1498,
+  "VRDColor": "White",
+  "VRDBodyType": "Saloon",
+  "VRDGW": "N/A",
+  "VRDYearOfManufacture": 2011,
+  "dateOfFirstRegistration": {
+    "$date": "2012-02-14T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1be"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "3929.00"
+  },
+  "purposeOfVehicle": "私家車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00532392",
+  "GPSUnitNo": "863835026797154",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978001442",
+  "driverName": "朱永祥",
+  "mainDriverStaffId": "KS00537",
+  "projectNo": "EC80172-KSE-ESD",
+  "company": "KSE",
+  "department": "ESD",
+  "marketFunction": "",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟5期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-08-01T00:00:00Z"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2017-08-15T15:40:33.500Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9c9"
+  },
+  "vehicleID": 338,
+  "licenceNumber": "LH6215",
+  "VRDClass": "Special Purpose VEH.",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - Traffic Warning Sign",
+  "chassisNumber": "FE639E-A45443",
+  "engineNo": "4D34-J69557",
+  "VRDCylinderCapacity": 3907,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Traffic Warning Sign",
+  "VRDGW": "5.5",
+  "VRDYearOfManufacture": 2003,
+  "dateOfFirstRegistration": {
+    "$date": "2004-02-03T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c1"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "5",
+  "licenseRenewal": {
+    "$numberDecimal": "2404.00"
+  },
+  "purposeOfVehicle": "特別用途車 - 箭咀車",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00567660",
+  "GPSUnitNo": "13200184664",
+  "GPSInstallation": true,
+  "gasCardNo": "NO",
+  "driverName": "LH6215",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80082-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "HyD",
+  "branchLocation": "Public Lighting System",
+  "customerCode": "CC0206",
+  "subcontractorCode": "VC0288",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "NO",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2020-02-01T00:00:00Z"
+  },
+  "lastUpdateBy": "yinmei.chow",
+  "lastUpdateDate": {
+    "$date": "2019-09-18T08:57:03.843Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": "Operation",
+  "allocationCoding": {
+    "$oid": "61e4d52e3b517b07b1677fd8"
+  },
+  "userGrading": "OTH-S",
+  "roundedMonthlyRate": 2000,
+  "vehicleValue": {
+    "$numberDecimal": "211199.00"
+  },
+  "assetNo": "",
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9ca"
+  },
+  "vehicleID": 340,
+  "licenceNumber": "LJ9502",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - PANTECHNICON(TL)",
+  "chassisNumber": "FE639E-A45470",
+  "engineNo": "4D34-J70830",
+  "VRDCylinderCapacity": 3907,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Pantechnicon (TL)",
+  "VRDGW": "5.5",
+  "VRDYearOfManufacture": 2003,
+  "dateOfFirstRegistration": {
+    "$date": "2004-03-25T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c0"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2018-02-02T00:00:00Z"
+  },
+  "renewalMonth": "3",
+  "licenseRenewal": {
+    "$numberDecimal": "2404.00"
+  },
+  "purposeOfVehicle": "密斗車連升降尾板",
+  "cab": "孖屋仔",
+  "bodyBuild": "密斗車",
+  "groupLogo": true,
+  "autotollAccount": "No",
+  "autotollCode": "No",
+  "GPSUnitNo": "13200143125",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978000972",
+  "driverName": "嚴建權",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80152-KFC-TCD",
+  "company": "KFC",
+  "department": "TCD",
+  "marketFunction": "CLP-PSBG",
+  "branchLocation": "Trenching-Direct Labor",
+  "customerCode": "CC0020",
+  "subcontractorCode": "VC0085",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Special",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "NO",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-02-02T00:00:00Z"
+  },
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2018-02-12T11:32:02.707Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9cb"
+  },
+  "vehicleID": 341,
+  "licenceNumber": "LJ9914",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - PANTECHNICON(TL)",
+  "chassisNumber": "FE639E-A45232",
+  "engineNo": "4D34-J63709",
+  "VRDCylinderCapacity": 3907,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Pantechnicon (TL)",
+  "VRDGW": "5.5",
+  "VRDYearOfManufacture": 2003,
+  "dateOfFirstRegistration": {
+    "$date": "2004-03-25T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c0"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2018-02-02T00:00:00Z"
+  },
+  "renewalMonth": "3",
+  "licenseRenewal": {
+    "$numberDecimal": "2404.00"
+  },
+  "purposeOfVehicle": "密斗車連升降尾板",
+  "cab": "孖屋仔",
+  "bodyBuild": "密斗車",
+  "groupLogo": true,
+  "autotollAccount": "No",
+  "autotollCode": "No",
+  "GPSUnitNo": "13200144067",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978000980",
+  "driverName": "莫健明",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80152-KFC-TCD",
+  "company": "KFC",
+  "department": "TCD",
+  "marketFunction": "CLP-PSBG",
+  "branchLocation": "Trenching-Direct Labor",
+  "customerCode": "CC0020",
+  "subcontractorCode": "VC0085",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Special",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "NO",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-02-02T00:00:00Z"
+  },
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2018-02-12T11:32:38.833Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9cc"
+  },
+  "vehicleID": 342,
+  "licenceNumber": "TS3752",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "NISSAN",
+  "carModel": "NV350 URVAN 2.5L DIESEL A/T HALF PANEL VAN (LGV) LUX",
+  "chassisNumber": "JN1MC2E26Z0004514",
+  "engineNo": "YD25-369910A",
+  "VRDCylinderCapacity": 2488,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Van",
+  "VRDGW": "3.3",
+  "VRDYearOfManufacture": 2015,
+  "dateOfFirstRegistration": {
+    "$date": "2015-09-30T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "9",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00661224",
+  "GPSUnitNo": "13600000704",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978007225",
+  "driverName": "王蘭桂",
+  "mainDriverStaffId": "KS00826",
+  "projectNo": "C0589",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "Private Job",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2017-08-15T15:40:33.507Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9cd"
+  },
+  "vehicleID": 343,
+  "licenceNumber": "TS3631",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "NISSAN",
+  "carModel": "NV350 URVAN 2.5L DIESEL A/T HALF PANEL VAN (LGV) LUX",
+  "chassisNumber": "JN1MC2E26Z0004465",
+  "engineNo": "YD25-367921A",
+  "VRDCylinderCapacity": 2488,
+  "VRDColor": "White",
+  "VRDBodyType": "Van",
+  "VRDGW": "3.3",
+  "VRDYearOfManufacture": 2015,
+  "dateOfFirstRegistration": {
+    "$date": "2015-09-30T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "9",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00708017",
+  "GPSUnitNo": "13600000400",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978008801",
+  "driverName": "陳燕平",
+  "mainDriverStaffId": "KS00116",
+  "projectNo": "",
+  "company": "KFC",
+  "department": "KKH",
+  "marketFunction": "FM-Vehicle Management",
+  "branchLocation": "KKH",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "宋王臺道公眾停車場",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2019-10-02T00:00:00Z"
+  },
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2021-01-07T08:17:02.907Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": "Support",
+  "allocationCoding": {
+    "$oid": "61e4d52e3b517b07b1677fe0"
+  },
+  "userGrading": "OTH-L",
+  "roundedMonthlyRate": 3240,
+  "vehicleValue": {
+    "$numberDecimal": "244345.00"
+  },
+  "assetNo": null,
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9ce"
+  },
+  "vehicleID": 344,
+  "licenceNumber": "TS3916",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "NISSAN",
+  "carModel": "NV350 URVAN 2.5L DIESEL A/T HALF PANEL VAN (LGV) LUX",
+  "chassisNumber": "JN1MC2E26Z0004629",
+  "engineNo": "YD25-373107A",
+  "VRDCylinderCapacity": 2488,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Van",
+  "VRDGW": "3.3",
+  "VRDYearOfManufacture": 2015,
+  "dateOfFirstRegistration": {
+    "$date": "2015-09-30T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "9",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00603903",
+  "GPSUnitNo": "13600004170",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978007266",
+  "driverName": "吳國祥",
+  "mainDriverStaffId": "KS02093",
+  "projectNo": "EC80138-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "EMSD",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2017-08-15T15:40:33.507Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9cf"
+  },
+  "vehicleID": 345,
+  "licenceNumber": "LS162",
+  "VRDClass": "Private Car",
+  "VRDMake": "NISSAN",
+  "carModel": "TIIDA GREEN SEDAN 1.5L",
+  "chassisNumber": "SC11-311658",
+  "engineNo": "HR15-285616C",
+  "VRDCylinderCapacity": 1498,
+  "VRDColor": "White",
+  "VRDBodyType": "Saloon",
+  "VRDGW": "",
+  "VRDYearOfManufacture": 2011,
+  "dateOfFirstRegistration": {
+    "$date": "2012-02-14T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1be"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "3929.00"
+  },
+  "purposeOfVehicle": "私家車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00500878",
+  "GPSUnitNo": "868998033956141",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978000121",
+  "driverName": "姚紹堂",
+  "mainDriverStaffId": "KS00780",
+  "projectNo": "EC80151-KFC-DCD",
+  "company": "KFC",
+  "department": "DCD",
+  "marketFunction": "CLP-PSBG",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "宋王臺道公眾停車場",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟5期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2020-01-01T00:00:00Z"
+  },
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2021-01-07T08:16:22.517Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": "Support",
+  "allocationCoding": {
+    "$oid": "61e4d52e3b517b07b1677fda"
+  },
+  "userGrading": "OTH-G",
+  "roundedMonthlyRate": 2280,
+  "vehicleValue": {
+    "$numberDecimal": "151661.00"
+  },
+  "assetNo": "",
+  "contractingBusinessDept": "PSD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9d0"
+  },
+  "vehicleID": 346,
+  "licenceNumber": "LS3263",
+  "VRDClass": "Private Car",
+  "VRDMake": "NISSAN",
+  "carModel": "TIIDA GREEN SEDAN 1.5L",
+  "chassisNumber": "SC11-311649",
+  "engineNo": "HR15-285487C",
+  "VRDCylinderCapacity": 1498,
+  "VRDColor": "White",
+  "VRDBodyType": "Saloon",
+  "VRDGW": "N/A",
+  "VRDYearOfManufacture": 2011,
+  "dateOfFirstRegistration": {
+    "$date": "2012-02-14T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1be"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "3929.00"
+  },
+  "purposeOfVehicle": "私家車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00559434",
+  "GPSUnitNo": "863835027164586",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978001475",
+  "driverName": "鄧諾棋",
+  "mainDriverStaffId": "KS00459",
+  "projectNo": "EC80252-KFC-BPD",
+  "company": "KFC",
+  "department": "BPD",
+  "marketFunction": "MTRC - ELine (Op)",
+  "branchLocation": "Bldg Project",
+  "customerCode": "CC0071",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟5期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2019-04-01T00:00:00Z"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2017-08-15T15:40:33.510Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "CBD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9d1"
+  },
+  "vehicleID": 347,
+  "licenceNumber": "LU1006",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "NISSAN",
+  "carModel": "URVAN 3.0 DIESEL HPV",
+  "chassisNumber": "JN1MG4E25Z0712132",
+  "engineNo": "ZD30-194930A",
+  "VRDCylinderCapacity": 2953,
+  "VRDColor": "White",
+  "VRDBodyType": "Van",
+  "VRDGW": "3.3",
+  "VRDYearOfManufacture": 2004,
+  "dateOfFirstRegistration": {
+    "$date": "2005-01-04T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "renewalMonth": "1",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00601540",
+  "GPSUnitNo": "863835025911046",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978002283",
+  "driverName": "王一明",
+  "mainDriverStaffId": "KS00063",
+  "projectNo": "EC80019-KSE-ESD",
+  "company": "KSE",
+  "department": "ESD",
+  "marketFunction": "",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "宋王臺道公眾停車場",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2017-12-27T16:48:13.120Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9d2"
+  },
+  "vehicleID": 348,
+  "licenceNumber": "LU1195",
+  "VRDClass": "Speecial Purpose VEH.",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - Traffic Warning Sign",
+  "chassisNumber": "FE639E-A46299",
+  "engineNo": "4D34-K05081",
+  "VRDCylinderCapacity": 3907,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Traffic Warning Sign",
+  "VRDGW": "5.5",
+  "VRDYearOfManufacture": 2004,
+  "dateOfFirstRegistration": {
+    "$date": "2005-01-05T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c1"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "1",
+  "licenseRenewal": {
+    "$numberDecimal": "2404.00"
+  },
+  "purposeOfVehicle": "特別用途車 - 箭咀車",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00567659",
+  "GPSUnitNo": "13200208630",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978009072",
+  "driverName": "吳國祥(管理)",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80138-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "EMSD",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "荔枝角倉",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2017-11-16T11:17:58.843Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9d3"
+  },
+  "vehicleID": 349,
+  "licenceNumber": "LU1725",
+  "VRDClass": "Speecial Purpose VEH.",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - Traffic Warning Sign",
+  "chassisNumber": "FE639E-A46252",
+  "engineNo": "4D34-K04598",
+  "VRDCylinderCapacity": 3907,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Traffic Warning Sign",
+  "VRDGW": "5.5",
+  "VRDYearOfManufacture": 2004,
+  "dateOfFirstRegistration": {
+    "$date": "2005-01-05T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c1"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "1",
+  "licenseRenewal": {
+    "$numberDecimal": "2404.00"
+  },
+  "purposeOfVehicle": "特別用途車 - 箭咀車",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00455751",
+  "GPSUnitNo": "13200144156",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978009114",
+  "driverName": "吳國祥(管理)",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80138-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "EMSD",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "荔枝角倉",
+  "typeOfCleaningServices": "NO",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2017-11-16T11:18:55.020Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9d4"
+  },
+  "vehicleID": 350,
+  "licenceNumber": "LU3098",
+  "VRDClass": "Speecial Purpose VEH.",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - Traffic Warning Sign",
+  "chassisNumber": "FE639E-A46300",
+  "engineNo": "4D34-K05123",
+  "VRDCylinderCapacity": 3907,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Traffic Warning Sign",
+  "VRDGW": "5.5",
+  "VRDYearOfManufacture": 2004,
+  "dateOfFirstRegistration": {
+    "$date": "2005-01-13T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c1"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "1",
+  "licenseRenewal": {
+    "$numberDecimal": "2404.00"
+  },
+  "purposeOfVehicle": "特別用途車 - 箭咀車",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00424225",
+  "GPSUnitNo": "13600004709",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978001419",
+  "driverName": "吳國祥(管理)",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80138-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "EMSD",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "荔枝角倉",
+  "typeOfCleaningServices": "NO",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2017-08-15T15:40:33.517Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9d5"
+  },
+  "vehicleID": 351,
+  "licenceNumber": "LU3295",
+  "VRDClass": "Speecial Purpose VEH.",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - Traffic Warning Sign",
+  "chassisNumber": "FE639E-A45997",
+  "engineNo": "4D34-J97400",
+  "VRDCylinderCapacity": 3907,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Traffic Warning Sign",
+  "VRDGW": "5.5",
+  "VRDYearOfManufacture": 2004,
+  "dateOfFirstRegistration": {
+    "$date": "2005-01-13T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c1"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "1",
+  "licenseRenewal": {
+    "$numberDecimal": "2404.00"
+  },
+  "purposeOfVehicle": "特別用途車 - 箭咀車",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00538499",
+  "GPSUnitNo": "13200208015",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978001509",
+  "driverName": "吳國祥(管理)",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80138-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "EMSD",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "荔枝角倉",
+  "typeOfCleaningServices": "NO",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2017-08-15T15:40:33.517Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9d6"
+  },
+  "vehicleID": 352,
+  "licenceNumber": "LU4483",
+  "VRDClass": "Speecial Purpose VEH.",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - Traffic Warning Sign",
+  "chassisNumber": "FE639E-A46120",
+  "engineNo": "4D34-K01437",
+  "VRDCylinderCapacity": 3907,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Traffic Warning Sign",
+  "VRDGW": "5.5",
+  "VRDYearOfManufacture": 2004,
+  "dateOfFirstRegistration": {
+    "$date": "2005-01-13T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c1"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "1",
+  "licenseRenewal": {
+    "$numberDecimal": "2404.00"
+  },
+  "purposeOfVehicle": "特別用途車 - 箭咀車",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00538500",
+  "GPSUnitNo": "13200143352",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978009106",
+  "driverName": "吳國祥(管理)",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80138-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "EMSD",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "荔枝角倉",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2017-11-16T11:20:34.830Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9d7"
+  },
+  "vehicleID": 353,
+  "licenceNumber": "LU6550",
+  "VRDClass": "Medium Goods Vehicle",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - Lorry Crane",
+  "chassisNumber": "FV51JS-A00130",
+  "engineNo": "6M70-351830",
+  "VRDCylinderCapacity": 12882,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Lorry Crane",
+  "VRDGW": "24",
+  "VRDYearOfManufacture": 2004,
+  "dateOfFirstRegistration": {
+    "$date": "2005-01-28T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c0"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2019-04-01T00:00:00Z"
+  },
+  "renewalMonth": "1",
+  "licenseRenewal": {
+    "$numberDecimal": "4694.00"
+  },
+  "purposeOfVehicle": "中型吊臂車 ",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00606062",
+  "GPSUnitNo": "13390001924",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978001525",
+  "driverName": "吳佩嫦 (管理)",
+  "mainDriverStaffId": "",
+  "projectNo": "",
+  "company": "PLL",
+  "department": "LSU",
+  "marketFunction": "GEN",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "NO",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": null,
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2018-03-29T10:35:59.040Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9d8"
+  },
+  "vehicleID": 354,
+  "licenceNumber": "LU7040",
+  "VRDClass": "Medium Goods Vehicle",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - Lorry Crane",
+  "chassisNumber": "FV51JS-A00145",
+  "engineNo": "6M70-354247",
+  "VRDCylinderCapacity": 12882,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Lorry Crane",
+  "VRDGW": "24",
+  "VRDYearOfManufacture": 2004,
+  "dateOfFirstRegistration": {
+    "$date": "2005-01-28T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c0"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2017-11-03T00:00:00Z"
+  },
+  "renewalMonth": "1",
+  "licenseRenewal": {
+    "$numberDecimal": "4694.00"
+  },
+  "purposeOfVehicle": "吊臂車 ",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00540623",
+  "GPSUnitNo": "13420500296",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978003448",
+  "driverName": "謝詩劍",
+  "mainDriverStaffId": "KS00383",
+  "projectNo": "EC80032-KFC-EID",
+  "company": "KFC",
+  "department": "EID",
+  "marketFunction": "",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "榮基圍-天線倉",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2017-11-03T00:00:00Z"
+  },
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2017-11-15T11:40:10.487Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9d9"
+  },
+  "vehicleID": 355,
+  "licenceNumber": "TS3364",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "NISSAN",
+  "carModel": "NV350 URVAN 2.5L DIESEL A/T HALF PANEL VAN (LGV) LUX",
+  "chassisNumber": "JN1MC2E26Z0004482",
+  "engineNo": "YD25-368256A",
+  "VRDCylinderCapacity": 2488,
+  "VRDColor": "White",
+  "VRDBodyType": "Van",
+  "VRDGW": "3.3",
+  "VRDYearOfManufacture": 2015,
+  "dateOfFirstRegistration": {
+    "$date": "2015-09-30T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "9",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00716456",
+  "GPSUnitNo": "13420601578",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978007233",
+  "driverName": "Randhawa Sukhdev Singh",
+  "mainDriverStaffId": "KS00361",
+  "projectNo": "EC80032-KFC-EID",
+  "company": "KFC",
+  "department": "EID",
+  "marketFunction": "",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "宋王臺道公眾停車場",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-08-01T00:00:00Z"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2017-08-15T15:40:33.520Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "PSD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9da"
+  },
+  "vehicleID": 356,
+  "licenceNumber": "LU8313",
+  "VRDClass": "Special Purpose VEH.",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - Traffic Warning Sign",
+  "chassisNumber": "FK61FF-B10002",
+  "engineNo": "6M60-084844",
+  "VRDCylinderCapacity": 7545,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Traffic Warning Sign",
+  "VRDGW": "12.96",
+  "VRDYearOfManufacture": 2004,
+  "dateOfFirstRegistration": {
+    "$date": "2005-02-02T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c1"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "4694.00"
+  },
+  "purposeOfVehicle": "特別用途車 - 箭咀防撞車",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00824284",
+  "GPSUnitNo": "868998033966041",
+  "GPSInstallation": true,
+  "gasCardNo": "NO",
+  "driverName": "LU8313",
+  "mainDriverStaffId": "",
+  "projectNo": "C0545",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "HyD",
+  "branchLocation": "Public Lighting System",
+  "customerCode": "CC0046",
+  "subcontractorCode": "VC0288",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "NO",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2020-02-01T00:00:00Z"
+  },
+  "lastUpdateBy": "yinmei.chow",
+  "lastUpdateDate": {
+    "$date": "2019-09-18T08:57:36.183Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": "Operation",
+  "allocationCoding": {
+    "$oid": "61e4d52e3b517b07b1677fd8"
+  },
+  "userGrading": "OTH-S",
+  "roundedMonthlyRate": 5810,
+  "vehicleValue": {
+    "$numberDecimal": "686793.70"
+  },
+  "assetNo": "",
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9db"
+  },
+  "vehicleID": 357,
+  "licenceNumber": "LU875",
+  "VRDClass": "Speecial Purpose VEH.",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - Traffic Warning Sign",
+  "chassisNumber": "FE639E-A46298",
+  "engineNo": "4D34-K05046",
+  "VRDCylinderCapacity": 3907,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Traffic Warning Sign",
+  "VRDGW": "5.5",
+  "VRDYearOfManufacture": 2004,
+  "dateOfFirstRegistration": {
+    "$date": "2005-01-05T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c1"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "1",
+  "licenseRenewal": {
+    "$numberDecimal": "2404.00"
+  },
+  "purposeOfVehicle": "特別用途車 - 箭咀車",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00600480",
+  "GPSUnitNo": "13390002806",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978009064",
+  "driverName": "吳國祥(管理)",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80138-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "EMSD",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "荔枝角倉",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2017-11-16T11:22:24.653Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9dc"
+  },
+  "vehicleID": 358,
+  "licenceNumber": "LU8850",
+  "VRDClass": "Speecial Purpose VEH.",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - Traffic Warning Sign",
+  "chassisNumber": "FK61FF-B10003",
+  "engineNo": "6M60-084983",
+  "VRDCylinderCapacity": 7545,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Traffic Warning Sign",
+  "VRDGW": "12.96",
+  "VRDYearOfManufacture": 2004,
+  "dateOfFirstRegistration": {
+    "$date": "2005-02-03T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c1"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "4694.00"
+  },
+  "purposeOfVehicle": "特別用途車 - 箭咀防撞車",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00539871",
+  "GPSUnitNo": "13200143394",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978001541",
+  "driverName": "吳國祥(管理)",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80138-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "EMSD",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "荔枝角倉",
+  "typeOfCleaningServices": "NO",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2017-08-15T15:40:33.523Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9dd"
+  },
+  "vehicleID": 359,
+  "licenceNumber": "LU9641",
+  "VRDClass": "Speecial Purpose VEH.",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - Traffic Warning Sign",
+  "chassisNumber": "FK61FF-B10004",
+  "engineNo": "6M60-085044",
+  "VRDCylinderCapacity": 7545,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Traffic Warning Sign",
+  "VRDGW": "12.96",
+  "VRDYearOfManufacture": 2004,
+  "dateOfFirstRegistration": {
+    "$date": "2005-02-03T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c1"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "4694.00"
+  },
+  "purposeOfVehicle": "特別用途車 - 箭咀防撞車",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00539869",
+  "GPSUnitNo": "13200143014",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978009080",
+  "driverName": "吳國祥(管理)",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80138-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "EMSD",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "荔枝角倉",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2017-11-16T11:22:40.067Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9de"
+  },
+  "vehicleID": 360,
+  "licenceNumber": "LV901",
+  "VRDClass": "Speecial Purpose VEH.",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - Traffic Warning Sign",
+  "chassisNumber": "FK61FK-B10002",
+  "engineNo": "6M60-084062",
+  "VRDCylinderCapacity": 7545,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Traffic Warning Sign",
+  "VRDGW": "12.96",
+  "VRDYearOfManufacture": 2004,
+  "dateOfFirstRegistration": {
+    "$date": "2005-02-21T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c1"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "4694.00"
+  },
+  "purposeOfVehicle": "特別用途車 - 升降台車",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00535341",
+  "GPSUnitNo": "13300202885",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978001566",
+  "driverName": "吳國祥(管理)",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80138-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "EMSD",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "荔枝角倉",
+  "typeOfCleaningServices": "NO",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2017-08-15T15:40:33.527Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9df"
+  },
+  "vehicleID": 361,
+  "licenceNumber": "LX1193",
+  "VRDClass": "Speecial Purpose VEH.",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - Traffic Warning Sign",
+  "chassisNumber": "FK61FF-B10006",
+  "engineNo": "6M60-087100",
+  "VRDCylinderCapacity": 7545,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Traffic Warning Sign",
+  "VRDGW": "12.96",
+  "VRDYearOfManufacture": 2005,
+  "dateOfFirstRegistration": {
+    "$date": "2005-04-27T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c1"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "4",
+  "licenseRenewal": {
+    "$numberDecimal": "4694.00"
+  },
+  "purposeOfVehicle": "特別用途車 - 升降台車",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00621356",
+  "GPSUnitNo": "13100110701",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978003455",
+  "driverName": "吳國祥(管理)",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80138-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "EMSD",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "NO",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2017-08-15T15:40:33.527Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9e0"
+  },
+  "vehicleID": 362,
+  "licenceNumber": "LX2279",
+  "VRDClass": "Speecial Purpose VEH.",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - Traffic Warning Sign",
+  "chassisNumber": "FK61FF-B10005",
+  "engineNo": "6M60-086869",
+  "VRDCylinderCapacity": 7545,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Traffic Warning Sign",
+  "VRDGW": "12.96",
+  "VRDYearOfManufacture": 2005,
+  "dateOfFirstRegistration": {
+    "$date": "2005-04-25T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c1"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "4",
+  "licenseRenewal": {
+    "$numberDecimal": "4694.00"
+  },
+  "purposeOfVehicle": "特別用途車 - 升降台車",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00621355",
+  "GPSUnitNo": "13200144269",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978001574",
+  "driverName": "吳國祥(管理)",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80138-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "EMSD",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "荔枝角倉",
+  "typeOfCleaningServices": "NO",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2017-08-15T15:40:33.527Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9e1"
+  },
+  "vehicleID": 364,
+  "licenceNumber": "LZ3051",
+  "VRDClass": "Speecial Purpose VEH.",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - Traffic Warning Sign",
+  "chassisNumber": "FK61FF-B10007",
+  "engineNo": "6M60-088026",
+  "VRDCylinderCapacity": 7545,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Traffic Warning Sign",
+  "VRDGW": "12.96",
+  "VRDYearOfManufacture": 2005,
+  "dateOfFirstRegistration": {
+    "$date": "2005-07-11T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c1"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "7",
+  "licenseRenewal": {
+    "$numberDecimal": "4694.00"
+  },
+  "purposeOfVehicle": "特別用途車 - 升降台車",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00792809",
+  "GPSUnitNo": "13390001086",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978004099",
+  "driverName": "王民生(管理)",
+  "mainDriverStaffId": "",
+  "projectNo": "C0563",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "EMSD",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "NO",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2017-08-15T15:40:33.530Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9e2"
+  },
+  "vehicleID": 365,
+  "licenceNumber": "LZ5789",
+  "VRDClass": "Special Purpose VEH.",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - Traffic Warning Sign",
+  "chassisNumber": "FK61FK-B10003",
+  "engineNo": "6M60-085061",
+  "VRDCylinderCapacity": 7545,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Traffic Warning Sign",
+  "VRDGW": "12.96",
+  "VRDYearOfManufacture": 2004,
+  "dateOfFirstRegistration": {
+    "$date": "2005-07-13T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c1"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "7",
+  "licenseRenewal": {
+    "$numberDecimal": "4694.00"
+  },
+  "purposeOfVehicle": "特別用途車 - 升降台車",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00452646",
+  "GPSUnitNo": "868998033955531",
+  "GPSInstallation": true,
+  "gasCardNo": "NO",
+  "driverName": "LZ5789",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80082-KFC-LPD",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "HyD",
+  "branchLocation": "Public Lighting System",
+  "customerCode": "CC0206",
+  "subcontractorCode": "VC0288",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "NO",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2020-02-01T00:00:00Z"
+  },
+  "lastUpdateBy": "yinmei.chow",
+  "lastUpdateDate": {
+    "$date": "2019-09-18T08:58:29.440Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": "Operation",
+  "allocationCoding": {
+    "$oid": "61e4d52e3b517b07b1677fd8"
+  },
+  "userGrading": "OTH-S",
+  "roundedMonthlyRate": 3900,
+  "vehicleValue": {
+    "$numberDecimal": "434992.00"
+  },
+  "assetNo": "",
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9e3"
+  },
+  "vehicleID": 366,
+  "licenceNumber": "ME6586",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "TOYOTA",
+  "carModel": "Toyota - Hiace",
+  "chassisNumber": "JTFHS02P800037182",
+  "engineNo": "2KD-1406838",
+  "VRDCylinderCapacity": 2494,
+  "VRDColor": "White",
+  "VRDBodyType": "Van",
+  "VRDGW": "2.8",
+  "VRDYearOfManufacture": 2005,
+  "dateOfFirstRegistration": {
+    "$date": "2006-01-11T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "renewalMonth": "1",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00669628",
+  "GPSUnitNo": "13200144079",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978003463",
+  "driverName": "湯恒",
+  "mainDriverStaffId": "KS00805",
+  "projectNo": "EC80106-KFC-GED-00313-00001",
+  "company": "KFC",
+  "department": "GED",
+  "marketFunction": "CLP - GBG",
+  "branchLocation": "Minor Civil Work",
+  "customerCode": "CC0020",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2017-12-27T16:48:41.013Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9e4"
+  },
+  "vehicleID": 367,
+  "licenceNumber": "ME7135",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "TOYOTA",
+  "carModel": "Toyota - Hiace",
+  "chassisNumber": "JTFHS02P400037082",
+  "engineNo": "2KD-1406463",
+  "VRDCylinderCapacity": 2494,
+  "VRDColor": "White",
+  "VRDBodyType": "Van",
+  "VRDGW": "2.8",
+  "VRDYearOfManufacture": 2005,
+  "dateOfFirstRegistration": {
+    "$date": "2006-01-11T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "renewalMonth": "1",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00669629",
+  "GPSUnitNo": "863835025904124",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978000154",
+  "driverName": "張定文",
+  "mainDriverStaffId": "KS00783",
+  "projectNo": "EC80048-KFC-BPD",
+  "company": "KFC",
+  "department": "BPD",
+  "marketFunction": "MTRC - NLine (Pj)",
+  "branchLocation": "Civil Project",
+  "customerCode": "CC0071",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "宋王臺道公眾停車場",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2017-12-27T16:48:52.387Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9e5"
+  },
+  "vehicleID": 368,
+  "licenceNumber": "ME7342",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "TOYOTA",
+  "carModel": "Toyota - Hiace",
+  "chassisNumber": "JTFHS02P300037316",
+  "engineNo": "2KD-1408055",
+  "VRDCylinderCapacity": 2494,
+  "VRDColor": "White",
+  "VRDBodyType": "Van",
+  "VRDGW": "2.8",
+  "VRDYearOfManufacture": 2005,
+  "dateOfFirstRegistration": {
+    "$date": "2006-01-11T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "renewalMonth": "1",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00600476",
+  "GPSUnitNo": "13390001036",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978000998",
+  "driverName": "徐兆堂",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80152-KFC-TCD",
+  "company": "KFC",
+  "department": "TCD",
+  "marketFunction": "CLP-PSBG",
+  "branchLocation": "Trenching-Direct Labor",
+  "customerCode": "CC0020",
+  "subcontractorCode": "VC0085",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "宋王臺道公眾停車場",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2017-12-27T16:56:33.803Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9e6"
+  },
+  "vehicleID": 369,
+  "licenceNumber": "ME8096",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "TOYOTA",
+  "carModel": "Toyota - Hiace",
+  "chassisNumber": "JTFHS02P900037272",
+  "engineNo": "2KD-1407791",
+  "VRDCylinderCapacity": 2494,
+  "VRDColor": "White",
+  "VRDBodyType": "Van",
+  "VRDGW": "2.8",
+  "VRDYearOfManufacture": 2005,
+  "dateOfFirstRegistration": {
+    "$date": "2006-01-11T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "renewalMonth": "1",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00669630",
+  "GPSUnitNo": "13200143119",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978000808",
+  "driverName": "張均榮",
+  "mainDriverStaffId": "",
+  "projectNo": "",
+  "company": "KFC",
+  "department": "BSF",
+  "marketFunction": "FM-Direct Expenditure",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2017-12-27T16:56:46.080Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9e7"
+  },
+  "vehicleID": 370,
+  "licenceNumber": "ME8179",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "TOYOTA",
+  "carModel": "Toyota - Hiace",
+  "chassisNumber": "JTFHS02P600037309",
+  "engineNo": "2KD-1407936",
+  "VRDCylinderCapacity": 2494,
+  "VRDColor": "White",
+  "VRDBodyType": "Van",
+  "VRDGW": "2.8",
+  "VRDYearOfManufacture": 2005,
+  "dateOfFirstRegistration": {
+    "$date": "2006-01-11T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "renewalMonth": "1",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00669632",
+  "GPSUnitNo": "863835025911541",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978002317",
+  "driverName": "黃學文",
+  "mainDriverStaffId": "KS02217",
+  "projectNo": "EC80047-KSE-RPD",
+  "company": "KSE",
+  "department": "RPD",
+  "marketFunction": "MTRC - ELine (Op)",
+  "branchLocation": "Railway Project",
+  "customerCode": "CC0071",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "宋王臺道公眾停車場",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2017-12-27T16:57:32.180Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9e8"
+  },
+  "vehicleID": 371,
+  "licenceNumber": "ME8185",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "TOYOTA",
+  "carModel": "Toyota - Hiace",
+  "chassisNumber": "JTFHS02P500037186",
+  "engineNo": "2KD-1406725",
+  "VRDCylinderCapacity": 2494,
+  "VRDColor": "White",
+  "VRDBodyType": "Van",
+  "VRDGW": "2.8",
+  "VRDYearOfManufacture": 2005,
+  "dateOfFirstRegistration": {
+    "$date": "2006-01-11T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "renewalMonth": "1",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00669631",
+  "GPSUnitNo": "13200144061",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978002341",
+  "driverName": "潘偉倫",
+  "mainDriverStaffId": "KS01969",
+  "projectNo": "EC80026-KSE-ESD",
+  "company": "KSE",
+  "department": "ESD",
+  "marketFunction": "",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟三期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2017-12-27T16:58:46.327Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9e9"
+  },
+  "vehicleID": 372,
+  "licenceNumber": "MS1588",
+  "VRDClass": "Medium Goods Vehicle",
+  "VRDMake": "MITSUBISHI",
+  "carModel": "Mitsubishi - Lorry Crane",
+  "chassisNumber": "FV51JP-A00026",
+  "engineNo": "6M70-374347",
+  "VRDCylinderCapacity": 12882,
+  "VRDColor": "White/Yellow",
+  "VRDBodyType": "Lorry Crane",
+  "VRDGW": "24",
+  "VRDYearOfManufacture": 2005,
+  "dateOfFirstRegistration": {
+    "$date": "2007-01-08T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "PLL",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1c0"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "利寶續牌",
+  "licenseRenewal": {
+    "$numberDecimal": "4694.00"
+  },
+  "purposeOfVehicle": "中型吊臂車 ",
+  "cab": "單屋仔",
+  "bodyBuild": "平斗車",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00410419",
+  "GPSUnitNo": "13420500385",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978003869",
+  "driverName": "吳佩嫦 (管理)",
+  "mainDriverStaffId": "",
+  "projectNo": "",
+  "company": "PLL",
+  "department": "LSU",
+  "marketFunction": "GEN",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "NO",
+  "emissionStandard": "歐盟4期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2019-04-01T00:00:00Z"
+  },
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2018-03-13T15:08:17.873Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "UFD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9ea"
+  },
+  "vehicleID": 373,
+  "licenceNumber": "MT2964",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "TOYOTA",
+  "carModel": "Toyota - Hiace",
+  "chassisNumber": "JTFHT02P600001293",
+  "engineNo": "1KD-1539760",
+  "VRDCylinderCapacity": 2982,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Van",
+  "VRDGW": "2.8",
+  "VRDYearOfManufacture": 2006,
+  "dateOfFirstRegistration": {
+    "$date": "2007-02-15T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00694772",
+  "GPSUnitNo": "863835026803101",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978003471",
+  "driverName": "呂浩彬",
+  "mainDriverStaffId": "KS00208",
+  "projectNo": "EC80105-KSE-ESD",
+  "company": "KSE",
+  "department": "ESD",
+  "marketFunction": "",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟4期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2017-12-27T17:00:18.447Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9eb"
+  },
+  "vehicleID": 374,
+  "licenceNumber": "MT3356",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "TOYOTA",
+  "carModel": "Toyota - Hiace",
+  "chassisNumber": "JTFHT02P000001211",
+  "engineNo": "1KD-1537207",
+  "VRDCylinderCapacity": 2982,
+  "VRDColor": "White",
+  "VRDBodyType": "Van",
+  "VRDGW": "2.8",
+  "VRDYearOfManufacture": 2006,
+  "dateOfFirstRegistration": {
+    "$date": "2007-02-15T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00669954",
+  "GPSUnitNo": "863835026809934",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978001004",
+  "driverName": "何明堅",
+  "mainDriverStaffId": "KS00046",
+  "projectNo": "EC80013-KFC-TCD",
+  "company": "KFC",
+  "department": "TCD",
+  "marketFunction": "CLP-PSBG",
+  "branchLocation": "No-dig-Direct Labor",
+  "customerCode": "CC0020",
+  "subcontractorCode": "VC0112",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟4期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2017-12-27T17:00:35.903Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9ec"
+  },
+  "vehicleID": 375,
+  "licenceNumber": "MT3555",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "TOYOTA",
+  "carModel": "Toyota - Hiace",
+  "chassisNumber": "JTFHT02P600001150",
+  "engineNo": "1KD-1534144",
+  "VRDCylinderCapacity": 2982,
+  "VRDColor": "White",
+  "VRDBodyType": "Van",
+  "VRDGW": "2.8",
+  "VRDYearOfManufacture": 2006,
+  "dateOfFirstRegistration": {
+    "$date": "2007-02-15T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00819323",
+  "GPSUnitNo": "863835025913026",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978001038",
+  "driverName": "彭桂榮",
+  "mainDriverStaffId": "",
+  "projectNo": "EC80152-KFC-TCD",
+  "company": "KFC",
+  "department": "TCD",
+  "marketFunction": "CLP-PSBG",
+  "branchLocation": "Trenching-Direct Labor",
+  "customerCode": "CC0020",
+  "subcontractorCode": "VC0081",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟4期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2017-12-27T17:00:54.467Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9ed"
+  },
+  "vehicleID": 376,
+  "licenceNumber": "MT3595",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "TOYOTA",
+  "carModel": "Toyota - Hiace",
+  "chassisNumber": "JTFHT02P300001266",
+  "engineNo": "1KD-1537795",
+  "VRDCylinderCapacity": 2982,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Van",
+  "VRDGW": "2.8",
+  "VRDYearOfManufacture": 2006,
+  "dateOfFirstRegistration": {
+    "$date": "2007-02-15T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC10052533",
+  "GPSUnitNo": "863835026303565",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978006896",
+  "driverName": "林文忠",
+  "mainDriverStaffId": "KS02197",
+  "projectNo": "EC80298-KSE-RPD",
+  "company": "KSE",
+  "department": "RPD",
+  "marketFunction": "MTRC - ELine (Op)",
+  "branchLocation": "Railway Project",
+  "customerCode": "CC0071",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "宋王臺道公眾停車場",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟4期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-07-24T00:00:00Z"
+  },
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2018-01-30T11:24:57.837Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "EMD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9ee"
+  },
+  "vehicleID": 377,
+  "licenceNumber": "MT3685",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "TOYOTA",
+  "carModel": "Toyota - Hiace",
+  "chassisNumber": "JTFHT02P400001132",
+  "engineNo": "1KD-1534422",
+  "VRDCylinderCapacity": 2982,
+  "VRDColor": "White",
+  "VRDBodyType": "Van",
+  "VRDGW": "2.8",
+  "VRDYearOfManufacture": 2006,
+  "dateOfFirstRegistration": {
+    "$date": "2007-02-15T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00819324",
+  "GPSUnitNo": "13510061163",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978002366",
+  "driverName": "陳正順",
+  "mainDriverStaffId": "KS01108",
+  "projectNo": "EC80032-KFC-EID",
+  "company": "KFC",
+  "department": "EID",
+  "marketFunction": "",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "宋王臺道公眾停車場",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟4期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2017-12-27T17:01:06.417Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9ef"
+  },
+  "vehicleID": 378,
+  "licenceNumber": "MT3750",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "TOYOTA",
+  "carModel": "Toyota - Hiace",
+  "chassisNumber": "JTFHT02P000001225",
+  "engineNo": "1KD-1537705",
+  "VRDCylinderCapacity": 2982,
+  "VRDColor": "Yellow",
+  "VRDBodyType": "Van",
+  "VRDGW": "2.8",
+  "VRDYearOfManufacture": 2006,
+  "dateOfFirstRegistration": {
+    "$date": "2007-02-15T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00661649",
+  "GPSUnitNo": "863835025920591",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978000204",
+  "driverName": "蘇志佳",
+  "mainDriverStaffId": "KS00033",
+  "projectNo": "EC80150-KFC-DCD",
+  "company": "KFC",
+  "department": "DCD",
+  "marketFunction": "CLP-PSBG",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "宋王臺道公眾停車場",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟4期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2017-12-27T17:01:16.323Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9f0"
+  },
+  "vehicleID": 379,
+  "licenceNumber": "MT3951",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "TOYOTA",
+  "carModel": "Toyota - Hiace",
+  "chassisNumber": "JTFHT02P900001322",
+  "engineNo": "1KD-1540556",
+  "VRDCylinderCapacity": 2982,
+  "VRDColor": "White",
+  "VRDBodyType": "Van",
+  "VRDGW": "2.8",
+  "VRDYearOfManufacture": 2006,
+  "dateOfFirstRegistration": {
+    "$date": "2007-02-15T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00732394",
+  "GPSUnitNo": "863835025898201",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978000279",
+  "driverName": "蔡偉成",
+  "mainDriverStaffId": "KS00307",
+  "projectNo": "EC80032-KFC-EID",
+  "company": "KFC",
+  "department": "EID",
+  "marketFunction": "",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "宋王臺道公眾停車場",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟4期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2017-12-27T17:01:28.303Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9f1"
+  },
+  "vehicleID": 380,
+  "licenceNumber": "MT4166",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "TOYOTA",
+  "carModel": "Toyota - Hiace",
+  "chassisNumber": "JTFHT02P600001116",
+  "engineNo": "1KD-1531447",
+  "VRDCylinderCapacity": 2982,
+  "VRDColor": "White",
+  "VRDBodyType": "Van",
+  "VRDGW": "2.8",
+  "VRDYearOfManufacture": 2006,
+  "dateOfFirstRegistration": {
+    "$date": "2007-02-15T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "Scrapped",
+  "scrapDate": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00654056",
+  "GPSUnitNo": "863835025912341",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978002416",
+  "driverName": "羅德輝",
+  "mainDriverStaffId": "KS00201",
+  "projectNo": "EC80032-KFC-EID",
+  "company": "KFC",
+  "department": "EID",
+  "marketFunction": "",
+  "branchLocation": "",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "停泊在公司提供的泊車位",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "宋王臺道公眾停車場",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟4期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2017-12-19T00:00:00Z"
+  },
+  "lastUpdateBy": "hf.yung",
+  "lastUpdateDate": {
+    "$date": "2017-12-27T17:01:38.163Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9f2"
+  },
+  "vehicleID": 381,
+  "licenceNumber": "MT4417",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "TOYOTA",
+  "carModel": "Toyota - Hiace",
+  "chassisNumber": "JTFHT02P300001168",
+  "engineNo": "1KD-1535746",
+  "VRDCylinderCapacity": 2982,
+  "VRDColor": "White",
+  "VRDBodyType": "Van",
+  "VRDGW": "2.8",
+  "VRDYearOfManufacture": 2006,
+  "dateOfFirstRegistration": {
+    "$date": "2007-02-15T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00768206",
+  "GPSUnitNo": "13200143069",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978001061",
+  "driverName": "羅燦謙",
+  "mainDriverStaffId": "KS01797",
+  "projectNo": "EC80202-KSE-RPD",
+  "company": "KFC",
+  "department": "RPD",
+  "marketFunction": "MTRC - ELine (Op)",
+  "branchLocation": "Railway Project",
+  "customerCode": "CC0093",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Special",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟4期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-06-01T00:00:00Z"
+  },
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2018-01-29T11:16:00.890Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "EMD"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9f3"
+  },
+  "vehicleID": 382,
+  "licenceNumber": "MT4450",
+  "VRDClass": "Light Goods Vehicle",
+  "VRDMake": "TOYOTA",
+  "carModel": "Toyota - Hiace",
+  "chassisNumber": "JTFHT02P500001348",
+  "engineNo": "1KD-1541202",
+  "VRDCylinderCapacity": 2982,
+  "VRDColor": "White",
+  "VRDBodyType": "Van",
+  "VRDGW": "2.8",
+  "VRDYearOfManufacture": 2006,
+  "dateOfFirstRegistration": {
+    "$date": "2007-02-15T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "4254.00"
+  },
+  "purposeOfVehicle": "輕型貨車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00751126",
+  "GPSUnitNo": "13200144225",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978003497",
+  "driverName": "黃權泰",
+  "mainDriverStaffId": "KS00603",
+  "projectNo": "EC80313-KEM-GTP",
+  "company": "KEM",
+  "department": "GTP",
+  "marketFunction": "CLP - GBG",
+  "branchLocation": "",
+  "customerCode": "CC0020",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟4期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-06-11T00:00:00Z"
+  },
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2018-01-29T11:17:35.630Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9f4"
+  },
+  "vehicleID": 383,
+  "licenceNumber": "NB8588",
+  "VRDClass": "Private Car",
+  "VRDMake": "TOYOTA",
+  "carModel": "Camry",
+  "chassisNumber": "JTNBD4FK603001130",
+  "engineNo": "2AR-0588772",
+  "VRDCylinderCapacity": 2494,
+  "VRDColor": "0",
+  "VRDBodyType": "Saloon",
+  "VRDGW": null,
+  "VRDYearOfManufacture": 2011,
+  "dateOfFirstRegistration": {
+    "$date": "2012-01-10T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1be"
+  },
+  "status": "In Use",
+  "scrapDate": null,
+  "renewalMonth": "1",
+  "licenseRenewal": {
+    "$numberDecimal": "5794.00"
+  },
+  "purposeOfVehicle": "私家車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": false,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00612601",
+  "GPSUnitNo": "863835027269096",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978002143",
+  "driverName": "高志偉",
+  "mainDriverStaffId": "KS00014",
+  "projectNo": null,
+  "company": "KFC",
+  "department": "EDO",
+  "marketFunction": "EDO-GK",
+  "branchLocation": null,
+  "customerCode": null,
+  "subcontractorCode": null,
+  "activityCode": null,
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "新寶停車場",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟5期",
+  "roadPermitNo": null,
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": null,
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2017-08-15T15:40:33Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": "Specific",
+  "allocationCoding": {
+    "$oid": "61e4d52e3b517b07b1677fdb"
+  },
+  "userGrading": "ED-G",
+  "roundedMonthlyRate": 4220,
+  "vehicleValue": {
+    "$numberDecimal": "388287.00"
+  },
+  "assetNo": null,
+  "contractingBusinessDept": "EDO"
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9f5"
+  },
+  "vehicleID": 384,
+  "licenceNumber": "NE6569",
+  "VRDClass": "Private Car",
+  "VRDMake": "TOYOTA",
+  "carModel": "Toyota Corolla",
+  "chassisNumber": "JTDBT42E809062709",
+  "engineNo": "1NZ-4903218",
+  "VRDCylinderCapacity": 1497,
+  "VRDColor": "White",
+  "VRDBodyType": "Saloon",
+  "VRDGW": "N/A",
+  "VRDYearOfManufacture": 2008,
+  "dateOfFirstRegistration": {
+    "$date": "2008-02-15T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1be"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "3929.00"
+  },
+  "purposeOfVehicle": "私家車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00568293",
+  "GPSUnitNo": "863835025898847",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821056978004107",
+  "driverName": "王民生",
+  "mainDriverStaffId": "KS00051",
+  "projectNo": "C0538",
+  "company": "KFC",
+  "department": "LPD",
+  "marketFunction": "HyD",
+  "branchLocation": "Non-Public Lighting System",
+  "customerCode": "",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟4期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2017-08-15T15:40:33.553Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": null
+},{
+  "_id": {
+    "$oid": "61e4d54c3b517b07b168a9f6"
+  },
+  "vehicleID": 385,
+  "licenceNumber": "NE6624",
+  "VRDClass": "Private Car",
+  "VRDMake": "TOYOTA",
+  "carModel": "Toyota Corolla",
+  "chassisNumber": "JTDBT42E309062259",
+  "engineNo": "1NZ-4898735",
+  "VRDCylinderCapacity": 1497,
+  "VRDColor": "White",
+  "VRDBodyType": "Saloon",
+  "VRDGW": "N/A",
+  "VRDYearOfManufacture": 2008,
+  "dateOfFirstRegistration": {
+    "$date": "2008-02-15T00:00:00Z"
+  },
+  "VRDRegisteredOwner": "KFC",
+  "type": {
+    "$oid": "61e4d54d3b517b07b168e1be"
+  },
+  "status": "History",
+  "scrapDate": null,
+  "renewalMonth": "2",
+  "licenseRenewal": {
+    "$numberDecimal": "3929.00"
+  },
+  "purposeOfVehicle": "私家車",
+  "cab": "N/A",
+  "bodyBuild": "N/A",
+  "groupLogo": true,
+  "autotollAccount": "107570",
+  "autotollCode": "CHTC00754702",
+  "GPSUnitNo": "13200144404",
+  "GPSInstallation": true,
+  "gasCardNo": "7002821057602500080",
+  "driverName": "黃松栢",
+  "mainDriverStaffId": "KS00304",
+  "projectNo": "EC80313-KEM-GTP",
+  "company": "KEM",
+  "department": "GTP",
+  "marketFunction": "CLP - GBG",
+  "branchLocation": "",
+  "customerCode": "CC0020",
+  "subcontractorCode": "",
+  "activityCode": "",
+  "nonOfficeHrAuth": "公司授權使用",
+  "typeOfParkingReinbursement": "Normal",
+  "vehicleParkingLocation": "N/A",
+  "typeOfCleaningServices": "YES",
+  "emissionStandard": "歐盟4期",
+  "roadPermitNo": "",
+  "effDateFrom": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "effDateTo": {
+    "$date": "2018-10-01T00:00:00Z"
+  },
+  "lastUpdateBy": "cody.tai",
+  "lastUpdateDate": {
+    "$date": "2018-01-30T10:51:13.377Z"
+  },
+  "maintenanceMileageDiff": 8000,
+  "vehicleFunction": null,
+  "userGrading": null,
+  "roundedMonthlyRate": null,
+  "vehicleValue": null,
+  "assetNo": null,
+  "contractingBusinessDept": "PSD"
+}]

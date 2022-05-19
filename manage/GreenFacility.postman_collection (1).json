@@ -1,0 +1,403 @@
+{
+	"info": {
+		"_postman_id": "c1d666fd-ba2f-4a4e-91d4-e51ca7af9667",
+		"name": "GreenFacility",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "parking",
+			"item": [
+				{
+					"name": "parking/:id",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "token",
+								"type": "text",
+								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjE5YjQ3OTk4NTE5OTUzY2E0ODcxMTQ1IiwibmFtZSI6ImFkbWluIiwicm9sZU5hbWUiOiJTeXN0ZW0gQWRtaW4iLCJleHAiOiIyMDIyLTA0LTE0IDExOjU2OjAwIn0sImlhdCI6MTY0NzMxNjU2MH0._0lkLPDArbf8OMX-Onymf28ZIIejXzrCzVdvRLmx2C0"
+							},
+							{
+								"key": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"licenceNumber\": \"BB0004\",\r\n    \"event\": \"IN\",\r\n    \"timestamp\": 1647311805842\r\n}"
+						},
+						"url": {
+							"raw": "http://localhost:31015/api/app/parking/4",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "31015",
+							"path": [
+								"api",
+								"app",
+								"parking",
+								"4"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "list",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "token",
+								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjE5YjQ3OTk4NTE5OTUzY2E0ODcxMTQ1IiwibmFtZSI6ImFkbWluIiwicm9sZU5hbWUiOiJTdXBwZXIgQWRtaW4iLCJleHAiOiIyMDIyLTAzLTE4IDE0OjU0OjE4In0sImlhdCI6MTY0NDk5NDQ1OH0.0UdqlxlHW_uLNceuVBGS1mKd0o_SqJXpiFQ-5gpMAHc",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "http://localhost:31015/api/app/parking/list",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "31015",
+							"path": [
+								"api",
+								"app",
+								"parking",
+								"list"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "all",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "token",
+								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjE5YjQ3OTk4NTE5OTUzY2E0ODcxMTQ1IiwibmFtZSI6ImFkbWluIiwicm9sZU5hbWUiOiJTdXBwZXIgQWRtaW4iLCJleHAiOiIyMDIyLTAzLTE4IDE0OjU0OjE4In0sImlhdCI6MTY0NDk5NDQ1OH0.0UdqlxlHW_uLNceuVBGS1mKd0o_SqJXpiFQ-5gpMAHc",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "http://localhost:31015/api/app/parking/all",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "31015",
+							"path": [
+								"api",
+								"app",
+								"parking",
+								"all"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "booking",
+			"item": [
+				{
+					"name": "booking",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "token",
+								"type": "text",
+								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjIwOWZjMGVjODNhNzcyOGJjZTk0NWQ1IiwibmFtZSI6IndheW5lIiwicm9sZU5hbWUiOiJUZXN0RHJpdmVyIiwiZXhwIjoiMjAyMi0wMy0xNiAxNDo1OTozMyJ9LCJpYXQiOjE2NDQ4MjE5NzN9.VdIO9KLLs42ijiWX9zRllm-R-P3DEhSYH7HGy_8hIYE"
+							}
+						],
+						"url": {
+							"raw": "http://localhost:31015/api/app/permit/622fea68b645300b8876d7ec",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "31015",
+							"path": [
+								"api",
+								"app",
+								"permit",
+								"622fea68b645300b8876d7ec"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "booking/list",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "token",
+								"type": "text",
+								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjE5YjQ3OTk4NTE5OTUzY2E0ODcxMTQ1IiwibmFtZSI6ImFkbWluIiwicm9sZU5hbWUiOiJTeXN0ZW0gQWRtaW4iLCJleHAiOiIyMDIyLTA0LTE0IDExOjU2OjAwIn0sImlhdCI6MTY0NzMxNjU2MH0._0lkLPDArbf8OMX-Onymf28ZIIejXzrCzVdvRLmx2C0"
+							}
+						],
+						"url": {
+							"raw": "http://localhost:31015/api/app/permit/list?page=1&limit=10",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "31015",
+							"path": [
+								"api",
+								"app",
+								"permit",
+								"list"
+							],
+							"query": [
+								{
+									"key": "page",
+									"value": "1"
+								},
+								{
+									"key": "limit",
+									"value": "10"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "booking/:id",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							},
+							{
+								"key": "token",
+								"type": "text",
+								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjE5YjQ3OTk4NTE5OTUzY2E0ODcxMTQ1IiwibmFtZSI6ImFkbWluIiwicm9sZU5hbWUiOiJTeXN0ZW0gQWRtaW4iLCJleHAiOiIyMDIyLTA0LTE0IDExOjU2OjAwIn0sImlhdCI6MTY0NzMxNjU2MH0._0lkLPDArbf8OMX-Onymf28ZIIejXzrCzVdvRLmx2C0"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"SOC\": \"60\",\r\n    \"totalMileage\": \"12433\"\r\n}"
+						},
+						"url": {
+							"raw": "http://localhost:31015/api/app/permit/booking/622fea68b645300b8876d7ec",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "31015",
+							"path": [
+								"api",
+								"app",
+								"permit",
+								"booking",
+								"622fea68b645300b8876d7ec"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "checkIn/:id",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							},
+							{
+								"key": "token",
+								"type": "text",
+								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjE5YjQ3OTk4NTE5OTUzY2E0ODcxMTQ1IiwibmFtZSI6ImFkbWluIiwicm9sZU5hbWUiOiJTeXN0ZW0gQWRtaW4iLCJleHAiOiIyMDIyLTA0LTE0IDExOjU2OjAwIn0sImlhdCI6MTY0NzMxNjU2MH0._0lkLPDArbf8OMX-Onymf28ZIIejXzrCzVdvRLmx2C0"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:31015/api/app/permit/checkIn/622fea68b645300b8876d7ec",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "31015",
+							"path": [
+								"api",
+								"app",
+								"permit",
+								"checkIn",
+								"622fea68b645300b8876d7ec"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "booking",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							},
+							{
+								"key": "token",
+								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjE5YjQ3OTk4NTE5OTUzY2E0ODcxMTQ1IiwibmFtZSI6ImFkbWluIiwicm9sZU5hbWUiOiJTeXN0ZW0gQWRtaW4iLCJleHAiOiIyMDIyLTA0LTE0IDExOjU2OjAwIn0sImlhdCI6MTY0NzMxNjU2MH0._0lkLPDArbf8OMX-Onymf28ZIIejXzrCzVdvRLmx2C0",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"purpose\": \"site work\",\r\n    \"timeFrom\": \"2022/3/15 13:00\",\r\n    \"timeTo\": \"2022/3/15 14:00\",\r\n    \"passager\": 3,\r\n    \"remark\": \"Test\"\r\n}"
+						},
+						"url": {
+							"raw": "http://localhost:31015/api/app/permit/booking",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "31015",
+							"path": [
+								"api",
+								"app",
+								"permit",
+								"booking"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "inout",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "token",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjE5YjQ3OTk4NTE5OTUzY2E0ODcxMTQ1IiwibmFtZSI6ImFkbWluIiwicm9sZU5hbWUiOiJTeXN0ZW0gQWRtaW4iLCJleHAiOiIyMDIyLTA0LTE0IDExOjU2OjAwIn0sImlhdCI6MTY0NzMxNjU2MH0._0lkLPDArbf8OMX-Onymf28ZIIejXzrCzVdvRLmx2C0",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"event\": \"IN\",\r\n    \"licenceNumber\": \"BB0004\",\r\n    \"timestamp\": 1647311925843\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:31015/api/app/inout",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "31015",
+					"path": [
+						"api",
+						"app",
+						"inout"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "openGate",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "token",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjE5YjQ3OTk4NTE5OTUzY2E0ODcxMTQ1IiwibmFtZSI6ImFkbWluIiwicm9sZU5hbWUiOiJTeXN0ZW0gQWRtaW4iLCJleHAiOiIyMDIyLTA0LTE0IDExOjU2OjAwIn0sImlhdCI6MTY0NzMxNjU2MH0._0lkLPDArbf8OMX-Onymf28ZIIejXzrCzVdvRLmx2C0",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"event\": \"IN\",\r\n    \"licenceNumber\": \"BB0004\",\r\n    \"token\": \"619b47998519953ca4871145\",\r\n    \"timestamp\": 1647311905843\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:31015/api/app/openGate",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "31015",
+					"path": [
+						"api",
+						"app",
+						"openGate"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "genQrcode",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "token",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjFjZDdjZDc4MmEyYTE0OWYwMmZhMWNhIiwibmFtZSI6ImZvcmVpZ24iLCJleHAiOiIyMDIyLTAxLTA2IDE3OjMzOjMxIn0sImlhdCI6MTY0MDg1NjgxMX0.99vhRjLBhu96kgdU_-_9leWa2c_ObdIt8n-hy_8B2XM",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"event\": \"IN\",\r\n    \"licenceNumber\": \"FV8888\",\r\n    \"token\": \"RD2717\",\r\n    \"timestamp\": 1641259725170\r\n}"
+				},
+				"url": {
+					"raw": "http://183.178.92.253:31015/api/app/parkingLot/genQrcode",
+					"protocol": "http",
+					"host": [
+						"183",
+						"178",
+						"92",
+						"253"
+					],
+					"port": "31015",
+					"path": [
+						"api",
+						"app",
+						"parkingLot",
+						"genQrcode"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

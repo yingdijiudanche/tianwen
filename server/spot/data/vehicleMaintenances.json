@@ -1,0 +1,1901 @@
+[{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8b8"
+  },
+  "ID": 1,
+  "LicenceNumber": "SH5788",
+  "MaintenanceDate": {
+    "$date": "2018-01-02T00:00:00Z"
+  },
+  "MaintenanceMileage": 73077,
+  "DriverName": "伍國倫",
+  "Department": "ESD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T11:37:22.853Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aab6"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8b9"
+  },
+  "ID": 2,
+  "LicenceNumber": "SG5576",
+  "MaintenanceDate": {
+    "$date": "2018-01-03T00:00:00Z"
+  },
+  "MaintenanceMileage": 92275,
+  "DriverName": "溫汝文",
+  "Department": "CSU",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T11:41:35.320Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aaab"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8ba"
+  },
+  "ID": 3,
+  "LicenceNumber": "RH1846",
+  "MaintenanceDate": {
+    "$date": "2018-01-03T00:00:00Z"
+  },
+  "MaintenanceMileage": 118973,
+  "DriverName": "傅文俊",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T11:43:56.730Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa62"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8bb"
+  },
+  "ID": 4,
+  "LicenceNumber": "RD1909",
+  "MaintenanceDate": {
+    "$date": "2018-01-05T00:00:00Z"
+  },
+  "MaintenanceMileage": 226011,
+  "DriverName": "洪啟邦",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T11:48:58.637Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa3f"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8bc"
+  },
+  "ID": 5,
+  "LicenceNumber": "RP6505",
+  "MaintenanceDate": {
+    "$date": "2018-01-08T00:00:00Z"
+  },
+  "MaintenanceMileage": 135487,
+  "DriverName": "伍智鋒",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T11:50:17.790Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa84"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8bd"
+  },
+  "ID": 6,
+  "LicenceNumber": "SG5976",
+  "MaintenanceDate": {
+    "$date": "2018-01-08T00:00:00Z"
+  },
+  "MaintenanceMileage": 105717,
+  "DriverName": "梁仲堅",
+  "Department": "GTP",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T11:50:55.260Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aaae"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8be"
+  },
+  "ID": 7,
+  "LicenceNumber": "RD2445",
+  "MaintenanceDate": {
+    "$date": "2018-01-09T00:00:00Z"
+  },
+  "MaintenanceMileage": 174663,
+  "DriverName": "葉勝東",
+  "Department": "ESD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T11:51:31.093Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa4d"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8bf"
+  },
+  "ID": 8,
+  "LicenceNumber": "SH5020",
+  "MaintenanceDate": {
+    "$date": "2018-01-10T00:00:00Z"
+  },
+  "MaintenanceMileage": 85288,
+  "DriverName": "張偉興",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T11:52:04.227Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aab4"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8c1"
+  },
+  "ID": 10,
+  "LicenceNumber": "RP2918",
+  "MaintenanceDate": {
+    "$date": "2018-01-15T00:00:00Z"
+  },
+  "MaintenanceMileage": 49819,
+  "DriverName": "張仕琛",
+  "Department": "GED",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T12:06:21.840Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa7b"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8c2"
+  },
+  "ID": 11,
+  "LicenceNumber": "RP3103",
+  "MaintenanceDate": {
+    "$date": "2018-01-16T00:00:00Z"
+  },
+  "MaintenanceMileage": 147215,
+  "DriverName": "陳國凱",
+  "Department": "GED",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T12:07:43.537Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa7d"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8c3"
+  },
+  "ID": 12,
+  "LicenceNumber": "RD2191",
+  "MaintenanceDate": {
+    "$date": "2018-01-18T00:00:00Z"
+  },
+  "MaintenanceMileage": 205127,
+  "DriverName": "陸兆明",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T12:10:25.447Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa49"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8c4"
+  },
+  "ID": 13,
+  "LicenceNumber": "RD863",
+  "MaintenanceDate": {
+    "$date": "2018-01-03T00:00:00Z"
+  },
+  "MaintenanceMileage": 176868,
+  "DriverName": "陳展鵬",
+  "Department": "ESD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T12:13:47.803Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa54"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8c5"
+  },
+  "ID": 14,
+  "LicenceNumber": "FS6636",
+  "MaintenanceDate": {
+    "$date": "2018-01-05T00:00:00Z"
+  },
+  "MaintenanceMileage": 94108,
+  "DriverName": "熊永發",
+  "Department": "FMF",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T12:14:23.870Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168a9b5"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8c6"
+  },
+  "ID": 15,
+  "LicenceNumber": "RB2428",
+  "MaintenanceDate": {
+    "$date": "2018-01-06T00:00:00Z"
+  },
+  "MaintenanceMileage": 158490,
+  "DriverName": "黃志文",
+  "Department": "ESD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T12:16:27.687Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa28"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8c7"
+  },
+  "ID": 16,
+  "LicenceNumber": "RD2052",
+  "MaintenanceDate": {
+    "$date": "2018-01-08T00:00:00Z"
+  },
+  "MaintenanceMileage": 177082,
+  "DriverName": "譚錦添",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T12:17:12.160Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa45"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8c8"
+  },
+  "ID": 17,
+  "LicenceNumber": "RD1069",
+  "MaintenanceDate": {
+    "$date": "2018-01-08T00:00:00Z"
+  },
+  "MaintenanceMileage": 201530,
+  "DriverName": "梁洛文",
+  "Department": "TCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T12:18:19.790Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa2a"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8c9"
+  },
+  "ID": 18,
+  "LicenceNumber": "RD1442",
+  "MaintenanceDate": {
+    "$date": "2018-01-10T00:00:00Z"
+  },
+  "MaintenanceMileage": 162083,
+  "DriverName": "陳冠豪",
+  "Department": "EID",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T12:20:54.213Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa32"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8ca"
+  },
+  "ID": 19,
+  "LicenceNumber": "RP3709",
+  "MaintenanceDate": {
+    "$date": "2018-01-11T00:00:00Z"
+  },
+  "MaintenanceMileage": 124439,
+  "DriverName": "袁啟文",
+  "Department": "ESD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T12:21:28.033Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168ab17"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8cb"
+  },
+  "ID": 20,
+  "LicenceNumber": "PR1341",
+  "MaintenanceDate": {
+    "$date": "2018-01-13T00:00:00Z"
+  },
+  "MaintenanceMileage": 272302,
+  "DriverName": "田志龍",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T12:22:11.180Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa0f"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8cc"
+  },
+  "ID": 21,
+  "LicenceNumber": "RR8366",
+  "MaintenanceDate": {
+    "$date": "2018-01-16T00:00:00Z"
+  },
+  "MaintenanceMileage": 132334,
+  "DriverName": "Gleeson Niall ",
+  "Department": "GTP",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T12:22:49.963Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa9a"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8cd"
+  },
+  "ID": 22,
+  "LicenceNumber": "NZ6044",
+  "MaintenanceDate": {
+    "$date": "2018-01-16T00:00:00Z"
+  },
+  "MaintenanceMileage": 206162,
+  "DriverName": "李偉榮",
+  "Department": "EID",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T12:24:30.547Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa07"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8ce"
+  },
+  "ID": 23,
+  "LicenceNumber": "TS3752",
+  "MaintenanceDate": {
+    "$date": "2018-01-18T00:00:00Z"
+  },
+  "MaintenanceMileage": 53021,
+  "DriverName": "王蘭桂",
+  "Department": "LPD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T12:25:14.010Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168a9cc"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8cf"
+  },
+  "ID": 24,
+  "LicenceNumber": "RP7163",
+  "MaintenanceDate": {
+    "$date": "2018-01-20T00:00:00Z"
+  },
+  "MaintenanceMileage": 152169,
+  "DriverName": "譚理豪",
+  "Department": "GED",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T12:31:50.727Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa8a"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8d0"
+  },
+  "ID": 25,
+  "LicenceNumber": "RD2125",
+  "MaintenanceDate": {
+    "$date": "2018-01-22T00:00:00Z"
+  },
+  "MaintenanceMileage": 196689,
+  "DriverName": "張嘉寶",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T12:33:09.457Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa46"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8d2"
+  },
+  "ID": 27,
+  "LicenceNumber": "NZ2698",
+  "MaintenanceDate": {
+    "$date": "2018-01-26T00:00:00Z"
+  },
+  "MaintenanceMileage": 184822,
+  "DriverName": "何立圖",
+  "Department": "RPD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T14:09:59.313Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa01"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8d3"
+  },
+  "ID": 28,
+  "LicenceNumber": "RD1757",
+  "MaintenanceDate": {
+    "$date": "2018-01-29T00:00:00Z"
+  },
+  "MaintenanceMileage": 126341,
+  "DriverName": "孫志堅",
+  "Department": "TCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T14:11:54.767Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa3d"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8d4"
+  },
+  "ID": 29,
+  "LicenceNumber": "RD841",
+  "MaintenanceDate": {
+    "$date": "2018-01-29T00:00:00Z"
+  },
+  "MaintenanceMileage": 139931,
+  "DriverName": "劉灝揚",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T14:13:28.740Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa53"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8d5"
+  },
+  "ID": 30,
+  "LicenceNumber": "RD1665",
+  "MaintenanceDate": {
+    "$date": "2018-01-30T00:00:00Z"
+  },
+  "MaintenanceMileage": 189081,
+  "DriverName": "鍾清廣",
+  "Department": "TCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T14:14:02.217Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa3a"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8d6"
+  },
+  "ID": 31,
+  "LicenceNumber": "RP7408",
+  "MaintenanceDate": {
+    "$date": "2018-01-20T00:00:00Z"
+  },
+  "MaintenanceMileage": 104209,
+  "DriverName": "霍燦林",
+  "Department": "EID",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T14:14:57.377Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa8d"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8d7"
+  },
+  "ID": 32,
+  "LicenceNumber": "RD1302",
+  "MaintenanceDate": {
+    "$date": "2018-01-23T00:00:00Z"
+  },
+  "MaintenanceMileage": 122187,
+  "DriverName": "陳昌裕",
+  "Department": "ESD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T14:15:42.663Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa2d"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8d8"
+  },
+  "ID": 33,
+  "LicenceNumber": "RP4087",
+  "MaintenanceDate": {
+    "$date": "2018-01-25T00:00:00Z"
+  },
+  "MaintenanceMileage": 119207,
+  "DriverName": "陳德慧",
+  "Department": "GTP",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T14:16:23.877Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa81"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8d9"
+  },
+  "ID": 34,
+  "LicenceNumber": "RP4087",
+  "MaintenanceDate": {
+    "$date": "2018-01-25T00:00:00Z"
+  },
+  "MaintenanceMileage": 119207,
+  "DriverName": "陳德慧",
+  "Department": "GTP",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T14:16:25.593Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa81"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8da"
+  },
+  "ID": 35,
+  "LicenceNumber": "NZ3518",
+  "MaintenanceDate": {
+    "$date": "2018-01-27T00:00:00Z"
+  },
+  "MaintenanceMileage": 203367,
+  "DriverName": "林鴻輝",
+  "Department": "EID",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T14:17:04.623Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa03"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8db"
+  },
+  "ID": 36,
+  "LicenceNumber": "RD951",
+  "MaintenanceDate": {
+    "$date": "2018-01-29T00:00:00Z"
+  },
+  "MaintenanceMileage": 118071,
+  "DriverName": "黃澤邦",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T14:17:44.970Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa58"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8dc"
+  },
+  "ID": 37,
+  "LicenceNumber": "RD516",
+  "MaintenanceDate": {
+    "$date": "2018-01-30T00:00:00Z"
+  },
+  "MaintenanceMileage": 289922,
+  "DriverName": "張梓迪",
+  "Department": "ESD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T14:20:20.123Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa4f"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8dd"
+  },
+  "ID": 38,
+  "LicenceNumber": "NE7854",
+  "MaintenanceDate": {
+    "$date": "2018-01-31T00:00:00Z"
+  },
+  "MaintenanceMileage": 186264,
+  "DriverName": "區民錦",
+  "Department": "TCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T14:21:05.147Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168a9f9"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8de"
+  },
+  "ID": 39,
+  "LicenceNumber": "PR4470",
+  "MaintenanceDate": {
+    "$date": "2018-02-02T00:00:00Z"
+  },
+  "MaintenanceMileage": 209810,
+  "DriverName": "陳永泉",
+  "Department": "TCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T15:42:41.380Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa1d"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8df"
+  },
+  "ID": 40,
+  "LicenceNumber": "RM9323",
+  "MaintenanceDate": {
+    "$date": "2018-02-03T00:00:00Z"
+  },
+  "MaintenanceMileage": 74089,
+  "DriverName": "陸家存",
+  "Department": "ESD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T15:45:37.977Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa6b"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8e0"
+  },
+  "ID": 41,
+  "LicenceNumber": "RN2265",
+  "MaintenanceDate": {
+    "$date": "2018-02-09T00:00:00Z"
+  },
+  "MaintenanceMileage": 111536,
+  "DriverName": "黃醒恒",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T15:46:23.603Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa73"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8e1"
+  },
+  "ID": 42,
+  "LicenceNumber": "RJ7239",
+  "MaintenanceDate": {
+    "$date": "2018-02-09T00:00:00Z"
+  },
+  "MaintenanceMileage": 226954,
+  "DriverName": "徐秋平",
+  "Department": "EID",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T15:47:05.193Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa65"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8e2"
+  },
+  "ID": 43,
+  "LicenceNumber": "PJ556",
+  "MaintenanceDate": {
+    "$date": "2018-02-02T00:00:00Z"
+  },
+  "MaintenanceMileage": 93251,
+  "DriverName": "張祖龍",
+  "Department": "LPD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T15:48:05.017Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aae8"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8e3"
+  },
+  "ID": 44,
+  "LicenceNumber": "RJ7289",
+  "MaintenanceDate": {
+    "$date": "2018-02-03T00:00:00Z"
+  },
+  "MaintenanceMileage": 79203,
+  "DriverName": "曾廣成",
+  "Department": "ESD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T15:49:09.087Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa66"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8e4"
+  },
+  "ID": 45,
+  "LicenceNumber": "JD8381",
+  "MaintenanceDate": {
+    "$date": "2018-02-07T00:00:00Z"
+  },
+  "MaintenanceMileage": 140079,
+  "DriverName": "劉耀輝",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T15:49:53.280Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168a9ba"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8e5"
+  },
+  "ID": 46,
+  "LicenceNumber": "RP3335",
+  "MaintenanceDate": {
+    "$date": "2018-02-09T00:00:00Z"
+  },
+  "MaintenanceMileage": 180682,
+  "DriverName": "李洪得",
+  "Department": "TCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T15:50:38.363Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa7e"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8e6"
+  },
+  "ID": 47,
+  "LicenceNumber": "RD1558",
+  "MaintenanceDate": {
+    "$date": "2018-02-12T00:00:00Z"
+  },
+  "MaintenanceMileage": 154199,
+  "DriverName": "羅家誠",
+  "Department": "GED",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T15:51:56.720Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa37"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8e7"
+  },
+  "ID": 48,
+  "LicenceNumber": "VD498",
+  "MaintenanceDate": {
+    "$date": "2018-02-27T00:00:00Z"
+  },
+  "MaintenanceMileage": 10506,
+  "DriverName": "區軒華",
+  "Department": "EID",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T15:53:15.467Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aaf9"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8e8"
+  },
+  "ID": 49,
+  "LicenceNumber": "RD612",
+  "MaintenanceDate": {
+    "$date": "2018-02-26T00:00:00Z"
+  },
+  "MaintenanceMileage": 150110,
+  "DriverName": "許長進",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T15:53:51.427Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa50"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8e9"
+  },
+  "ID": 50,
+  "LicenceNumber": "MT3685",
+  "MaintenanceDate": {
+    "$date": "2018-03-01T00:00:00Z"
+  },
+  "MaintenanceMileage": 262368,
+  "DriverName": "李卓傑",
+  "Department": "GTP",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T15:55:09.673Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aafe"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8ea"
+  },
+  "ID": 51,
+  "LicenceNumber": "SG5242",
+  "MaintenanceDate": {
+    "$date": "2018-03-02T00:00:00Z"
+  },
+  "MaintenanceMileage": 115891,
+  "DriverName": "陳偉麟",
+  "Department": "GTP",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T15:55:59.280Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aaaa"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8ec"
+  },
+  "ID": 53,
+  "LicenceNumber": "RP4195",
+  "MaintenanceDate": {
+    "$date": "2018-03-05T00:00:00Z"
+  },
+  "MaintenanceMileage": 146791,
+  "DriverName": "潘玉山",
+  "Department": "TCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T15:57:31.660Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168ab18"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8ed"
+  },
+  "ID": 54,
+  "LicenceNumber": "KUMSH1NG",
+  "MaintenanceDate": {
+    "$date": "2018-03-06T00:00:00Z"
+  },
+  "MaintenanceMileage": 390515,
+  "DriverName": "吳偉康",
+  "Department": "EDO",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T15:58:23.063Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168a9c4"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8ee"
+  },
+  "ID": 55,
+  "LicenceNumber": "RD1999",
+  "MaintenanceDate": {
+    "$date": "2018-03-07T00:00:00Z"
+  },
+  "MaintenanceMileage": 143287,
+  "DriverName": "莊子傑",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T15:58:59.067Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa42"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8ef"
+  },
+  "ID": 56,
+  "LicenceNumber": "RP7810",
+  "MaintenanceDate": {
+    "$date": "2018-03-07T00:00:00Z"
+  },
+  "MaintenanceMileage": 156318,
+  "DriverName": "林世傑",
+  "Department": "CPD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T15:59:37.817Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa92"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8f0"
+  },
+  "ID": 57,
+  "LicenceNumber": "RD1686",
+  "MaintenanceDate": {
+    "$date": "2018-03-02T00:00:00Z"
+  },
+  "MaintenanceMileage": 140621,
+  "DriverName": "蘇振強",
+  "Department": "ESU",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T16:00:50.733Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa3b"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8f1"
+  },
+  "ID": 58,
+  "LicenceNumber": "RN594",
+  "MaintenanceDate": {
+    "$date": "2018-03-02T00:00:00Z"
+  },
+  "MaintenanceMileage": 173562,
+  "DriverName": "梁樹基",
+  "Department": "MSU",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T16:01:20.513Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa79"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8f2"
+  },
+  "ID": 59,
+  "LicenceNumber": "RP7992",
+  "MaintenanceDate": {
+    "$date": "2018-03-05T00:00:00Z"
+  },
+  "MaintenanceMileage": 74443,
+  "DriverName": "馬保興",
+  "Department": "RPD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T16:02:02.117Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168ab16"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8f3"
+  },
+  "ID": 60,
+  "LicenceNumber": "PR723",
+  "MaintenanceDate": {
+    "$date": "2018-03-06T00:00:00Z"
+  },
+  "MaintenanceMileage": 182553,
+  "DriverName": "湯國基",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T16:02:36.747Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa1e"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8f4"
+  },
+  "ID": 61,
+  "LicenceNumber": "PR4041",
+  "MaintenanceDate": {
+    "$date": "2018-03-07T00:00:00Z"
+  },
+  "MaintenanceMileage": 210050,
+  "DriverName": "彭智榮",
+  "Department": "TCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T16:03:15.467Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa1a"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8f5"
+  },
+  "ID": 62,
+  "LicenceNumber": "RD1453",
+  "MaintenanceDate": {
+    "$date": "2018-03-07T00:00:00Z"
+  },
+  "MaintenanceMileage": 110208,
+  "DriverName": "盧國璋",
+  "Department": "TCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-08T16:04:22.857Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa33"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8f6"
+  },
+  "ID": 63,
+  "LicenceNumber": "RN594",
+  "MaintenanceDate": {
+    "$date": "2017-11-01T00:00:00Z"
+  },
+  "MaintenanceMileage": 165644,
+  "DriverName": "梁樹基",
+  "Department": "MSU",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T10:44:58.490Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa79"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8f7"
+  },
+  "ID": 64,
+  "LicenceNumber": "NE6624",
+  "MaintenanceDate": {
+    "$date": "2017-11-02T00:00:00Z"
+  },
+  "MaintenanceMileage": 155053,
+  "DriverName": "黃松栢",
+  "Department": "GTP",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T10:51:42.647Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168a9f6"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8f8"
+  },
+  "ID": 65,
+  "LicenceNumber": "RD841",
+  "MaintenanceDate": {
+    "$date": "2017-11-07T00:00:00Z"
+  },
+  "MaintenanceMileage": 135419,
+  "DriverName": "劉灝揚",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T10:52:57.573Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa53"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8f9"
+  },
+  "ID": 66,
+  "LicenceNumber": "RP7400",
+  "MaintenanceDate": {
+    "$date": "2017-11-07T00:00:00Z"
+  },
+  "MaintenanceMileage": 120117,
+  "DriverName": "王啟雄",
+  "Department": "ESD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T10:54:48.567Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa8c"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8fa"
+  },
+  "ID": 67,
+  "LicenceNumber": "PR3504",
+  "MaintenanceDate": {
+    "$date": "2017-11-08T00:00:00Z"
+  },
+  "MaintenanceMileage": 241193,
+  "DriverName": "彭偉良",
+  "Department": "TCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T10:56:00.917Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa19"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8fb"
+  },
+  "ID": 68,
+  "LicenceNumber": "RD1999",
+  "MaintenanceDate": {
+    "$date": "2017-11-08T00:00:00Z"
+  },
+  "MaintenanceMileage": 134558,
+  "DriverName": "莊子傑",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T10:56:38.233Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa42"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8fc"
+  },
+  "ID": 69,
+  "LicenceNumber": "RP7983",
+  "MaintenanceDate": {
+    "$date": "2017-11-10T00:00:00Z"
+  },
+  "MaintenanceMileage": 46406,
+  "DriverName": "王國強",
+  "Department": "EDO",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T10:58:23.780Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa96"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8fd"
+  },
+  "ID": 70,
+  "LicenceNumber": "RJ7239",
+  "MaintenanceDate": {
+    "$date": "2017-11-10T00:00:00Z"
+  },
+  "MaintenanceMileage": 216746,
+  "DriverName": "徐秋平",
+  "Department": "EID",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T10:59:13.950Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa65"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8fe"
+  },
+  "ID": 71,
+  "LicenceNumber": "PR2544",
+  "MaintenanceDate": {
+    "$date": "2017-11-10T00:00:00Z"
+  },
+  "MaintenanceMileage": 124994,
+  "DriverName": "岑永雄",
+  "Department": "BPD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T10:59:48.410Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa16"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d8ff"
+  },
+  "ID": 72,
+  "LicenceNumber": "TS3364",
+  "MaintenanceDate": {
+    "$date": "2017-11-10T00:00:00Z"
+  },
+  "MaintenanceMileage": 45236,
+  "DriverName": "Randhawa Sukhdev Singh",
+  "Department": "EID",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T11:00:31.480Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168a9d9"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d900"
+  },
+  "ID": 73,
+  "LicenceNumber": "RN465",
+  "MaintenanceDate": {
+    "$date": "2017-11-13T00:00:00Z"
+  },
+  "MaintenanceMileage": 74715,
+  "DriverName": "區永林",
+  "Department": "ESD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T11:04:50.327Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa78"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d901"
+  },
+  "ID": 74,
+  "LicenceNumber": "RN1584",
+  "MaintenanceDate": {
+    "$date": "2017-11-13T00:00:00Z"
+  },
+  "MaintenanceMileage": 87700,
+  "DriverName": "何志華",
+  "Department": "TCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T11:05:33.023Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa6f"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d902"
+  },
+  "ID": 75,
+  "LicenceNumber": "KF2688",
+  "MaintenanceDate": {
+    "$date": "2017-11-15T00:00:00Z"
+  },
+  "MaintenanceMileage": 20792,
+  "DriverName": "王紹恆",
+  "Department": "EDO",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T11:06:42.660Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168a9bb"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d903"
+  },
+  "ID": 76,
+  "LicenceNumber": "RF8224",
+  "MaintenanceDate": {
+    "$date": "2017-11-15T00:00:00Z"
+  },
+  "MaintenanceMileage": 118419,
+  "DriverName": "李創發",
+  "Department": "ESD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T11:08:11.703Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa5d"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d904"
+  },
+  "ID": 77,
+  "LicenceNumber": "RN1576",
+  "MaintenanceDate": {
+    "$date": "2017-11-15T00:00:00Z"
+  },
+  "MaintenanceMileage": 128411,
+  "DriverName": "翁偉明",
+  "Department": "TCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T11:08:51.203Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa6e"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d905"
+  },
+  "ID": 78,
+  "LicenceNumber": "RD814",
+  "MaintenanceDate": {
+    "$date": "2017-11-15T00:00:00Z"
+  },
+  "MaintenanceMileage": 143250,
+  "DriverName": "劉萬隆",
+  "Department": "TCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T11:13:14.060Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa52"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d906"
+  },
+  "ID": 79,
+  "LicenceNumber": "RP7851",
+  "MaintenanceDate": {
+    "$date": "2017-11-16T00:00:00Z"
+  },
+  "MaintenanceMileage": 167581,
+  "DriverName": "高嘉祖",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T11:18:47.740Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa94"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d907"
+  },
+  "ID": 80,
+  "LicenceNumber": "RD914",
+  "MaintenanceDate": {
+    "$date": "2017-11-17T00:00:00Z"
+  },
+  "MaintenanceMileage": 158283,
+  "DriverName": "莫志輝",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T11:19:49.810Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa56"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d908"
+  },
+  "ID": 81,
+  "LicenceNumber": "SG4945",
+  "MaintenanceDate": {
+    "$date": "2017-11-20T00:00:00Z"
+  },
+  "MaintenanceMileage": 71180,
+  "DriverName": "姚智敏 (管理)",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T11:21:36.543Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aaa9"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d909"
+  },
+  "ID": 82,
+  "LicenceNumber": "RD1146",
+  "MaintenanceDate": {
+    "$date": "2017-11-21T00:00:00Z"
+  },
+  "MaintenanceMileage": 94928,
+  "DriverName": "陳桂添",
+  "Department": "ESD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T12:13:55.190Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa2b"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d90a"
+  },
+  "ID": 83,
+  "LicenceNumber": "NZ5901",
+  "MaintenanceDate": {
+    "$date": "2017-11-22T00:00:00Z"
+  },
+  "MaintenanceMileage": 158404,
+  "DriverName": "陳爾駿",
+  "Department": "EID",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T12:14:56.200Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa06"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d90b"
+  },
+  "ID": 84,
+  "LicenceNumber": "RD1453",
+  "MaintenanceDate": {
+    "$date": "2017-11-22T00:00:00Z"
+  },
+  "MaintenanceMileage": 104098,
+  "DriverName": "盧國璋",
+  "Department": "TCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T12:15:47.147Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa33"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d90c"
+  },
+  "ID": 85,
+  "LicenceNumber": "RJ8036",
+  "MaintenanceDate": {
+    "$date": "2017-11-23T00:00:00Z"
+  },
+  "MaintenanceMileage": 148523,
+  "DriverName": "麥倬維",
+  "Department": "GED",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T12:19:14.283Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa67"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d90d"
+  },
+  "ID": 86,
+  "LicenceNumber": "RP7715",
+  "MaintenanceDate": {
+    "$date": "2017-11-23T00:00:00Z"
+  },
+  "MaintenanceMileage": 197621,
+  "DriverName": "陳文武",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T12:19:48.993Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa90"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d90f"
+  },
+  "ID": 88,
+  "LicenceNumber": "SH9027",
+  "MaintenanceDate": {
+    "$date": "2017-11-24T00:00:00Z"
+  },
+  "MaintenanceMileage": 111623,
+  "DriverName": "馬民忠",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T12:23:27.233Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aabb"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d910"
+  },
+  "ID": 89,
+  "LicenceNumber": "PR3098",
+  "MaintenanceDate": {
+    "$date": "2017-11-27T00:00:00Z"
+  },
+  "MaintenanceMileage": 242520,
+  "DriverName": "劉浩彬",
+  "Department": "RPD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T12:25:15.887Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa18"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d911"
+  },
+  "ID": 90,
+  "LicenceNumber": "RD516",
+  "MaintenanceDate": {
+    "$date": "2017-11-28T00:00:00Z"
+  },
+  "MaintenanceMileage": 274670,
+  "DriverName": "張梓迪",
+  "Department": "ESD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T12:26:21.093Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa4f"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d912"
+  },
+  "ID": 91,
+  "LicenceNumber": "RP6525",
+  "MaintenanceDate": {
+    "$date": "2017-11-29T00:00:00Z"
+  },
+  "MaintenanceMileage": 100265,
+  "DriverName": "楊浩森",
+  "Department": "BPD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T12:26:58.423Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa85"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d913"
+  },
+  "ID": 92,
+  "LicenceNumber": "RD1992",
+  "MaintenanceDate": {
+    "$date": "2017-11-29T00:00:00Z"
+  },
+  "MaintenanceMileage": 220782,
+  "DriverName": "鄭子軒",
+  "Department": "EID",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T12:27:28.390Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa41"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d914"
+  },
+  "ID": 93,
+  "LicenceNumber": "RP7533",
+  "MaintenanceDate": {
+    "$date": "2017-11-30T00:00:00Z"
+  },
+  "MaintenanceMileage": 79344,
+  "DriverName": "曾祥康",
+  "Department": "RPD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T12:30:11.767Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa8f"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d915"
+  },
+  "ID": 94,
+  "LicenceNumber": "RD1599",
+  "MaintenanceDate": {
+    "$date": "2017-11-30T00:00:00Z"
+  },
+  "MaintenanceMileage": 238096,
+  "DriverName": "譚廣雄",
+  "Department": "RPD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T12:31:01.267Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa39"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d916"
+  },
+  "ID": 95,
+  "LicenceNumber": "RD1359",
+  "MaintenanceDate": {
+    "$date": "2017-12-01T00:00:00Z"
+  },
+  "MaintenanceMileage": 153539,
+  "DriverName": "劉斌帥",
+  "Department": "GED",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T14:56:24.470Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa2f"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d917"
+  },
+  "ID": 96,
+  "LicenceNumber": "SM6690",
+  "MaintenanceDate": {
+    "$date": "2017-12-04T00:00:00Z"
+  },
+  "MaintenanceMileage": 92406,
+  "DriverName": "黃家平(管理)",
+  "Department": "BPD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T14:58:25.897Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aaea"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d918"
+  },
+  "ID": 97,
+  "LicenceNumber": "SM7162",
+  "MaintenanceDate": {
+    "$date": "2017-12-05T00:00:00Z"
+  },
+  "MaintenanceMileage": 108806,
+  "DriverName": "黃家平(管理)",
+  "Department": "BPD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T14:59:47.080Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aae9"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d919"
+  },
+  "ID": 98,
+  "LicenceNumber": "RJ6911",
+  "MaintenanceDate": {
+    "$date": "2017-12-06T00:00:00Z"
+  },
+  "MaintenanceMileage": 145136,
+  "DriverName": "吳永章",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T15:33:26.987Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa63"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d91a"
+  },
+  "ID": 99,
+  "LicenceNumber": "SH8779",
+  "MaintenanceDate": {
+    "$date": "2017-12-06T00:00:00Z"
+  },
+  "MaintenanceMileage": 127317,
+  "DriverName": "李權威",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T15:34:06Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aab9"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d91b"
+  },
+  "ID": 100,
+  "LicenceNumber": "SG6257",
+  "MaintenanceDate": {
+    "$date": "2017-12-06T00:00:00Z"
+  },
+  "MaintenanceMileage": 95043,
+  "DriverName": "黃家平",
+  "Department": "CPD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T15:35:19.103Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aab1"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d91c"
+  },
+  "ID": 101,
+  "LicenceNumber": "NS5426",
+  "MaintenanceDate": {
+    "$date": "2017-12-06T00:00:00Z"
+  },
+  "MaintenanceMileage": 70432,
+  "DriverName": "范根德",
+  "Department": "EDO",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T15:36:06.057Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168a9ff"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d91d"
+  },
+  "ID": 102,
+  "LicenceNumber": "RP7011",
+  "MaintenanceDate": {
+    "$date": "2017-12-07T00:00:00Z"
+  },
+  "MaintenanceMileage": 205210,
+  "DriverName": "溫俊然",
+  "Department": "DCD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T15:36:42.107Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa87"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d91e"
+  },
+  "ID": 103,
+  "LicenceNumber": "PR2786",
+  "MaintenanceDate": {
+    "$date": "2017-12-07T00:00:00Z"
+  },
+  "MaintenanceMileage": 158331,
+  "DriverName": "劉健明",
+  "Department": "EID",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T15:37:56.020Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168aa17"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168d91f"
+  },
+  "ID": 104,
+  "LicenceNumber": "TS2741",
+  "MaintenanceDate": {
+    "$date": "2017-12-09T00:00:00Z"
+  },
+  "MaintenanceMileage": 37819,
+  "DriverName": "李偉基",
+  "Department": "LPD",
+  "CreatedBy": "wf.hung",
+  "CreatedOn": {
+    "$date": "2018-05-09T15:38:36.610Z"
+  },
+  "vehicle_id": {
+    "$oid": "61e4d54c3b517b07b168a9c3"
+  }
+}]

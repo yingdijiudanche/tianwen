@@ -1,0 +1,257 @@
+{
+  "fields": [
+    {
+      "name": "_id",
+      "path": "_id",
+      "count": 8,
+      "types": [
+        {
+          "name": "ObjectID",
+          "bsonType": "ObjectID",
+          "path": "_id",
+          "count": 8,
+          "values": [
+            "61e90bebb04c511e6427add9",
+            "61e90ba9b04c511e6427adcd",
+            "61e90ad8b04c511e6427adaa",
+            "61e90bfeb04c511e6427addd",
+            "61e90b70b04c511e6427adc5",
+            "61e90bb9b04c511e6427add1",
+            "61e90bccb04c511e6427add5",
+            "61e90b96b04c511e6427adc9"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 8,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 8,
+      "type": "ObjectID",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "__v",
+      "path": "__v",
+      "count": 8,
+      "types": [
+        {
+          "name": "Int32",
+          "bsonType": "Int32",
+          "path": "__v",
+          "count": 8,
+          "values": [0, 0, 0, 0, 0, 0, 0, 0],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 8,
+      "type": "Int32",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "averageMileage",
+      "path": "averageMileage",
+      "count": 8,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "averageMileage",
+          "count": 8,
+          "values": [
+            "500.00",
+            "500.00",
+            "500.00",
+            "500.00",
+            "500.00",
+            "500.00",
+            "500.00",
+            "500.00"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 8,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "lastUpdateBy",
+      "path": "lastUpdateBy",
+      "count": 8,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "lastUpdateBy",
+          "count": 8,
+          "values": [
+            "ph.lai",
+            "ph.lai",
+            "ph.lai",
+            "ph.lai",
+            "ph.lai",
+            "ph.lai",
+            "ph.lai",
+            "ph.lai"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 8,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "lastUpdateDate",
+      "path": "lastUpdateDate",
+      "count": 8,
+      "types": [
+        {
+          "name": "Date",
+          "bsonType": "Date",
+          "path": "lastUpdateDate",
+          "count": 8,
+          "values": [
+            "2022-01-20T07:14:51.371Z",
+            "2022-01-20T07:13:45.217Z",
+            "2022-01-20T07:10:16.380Z",
+            "2022-01-20T07:15:10.552Z",
+            "2022-01-20T07:12:48.399Z",
+            "2022-01-20T07:14:01.266Z",
+            "2022-01-20T07:14:20.520Z",
+            "2022-01-20T07:13:26.545Z"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 8,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 8,
+      "type": "Date",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "maxMoneyPerKM",
+      "path": "maxMoneyPerKM",
+      "count": 8,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "maxMoneyPerKM",
+          "count": 8,
+          "values": ["0.70", "1.20", "1.20", "0.70", "1.20", "1.20", "0.70", "1.20"],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 2,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 8,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "mileagePerMonth",
+      "path": "mileagePerMonth",
+      "count": 8,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "mileagePerMonth",
+          "count": 8,
+          "values": [
+            "3000.00",
+            "3000.00",
+            "3000.00",
+            "3000.00",
+            "3000.00",
+            "3000.00",
+            "3000.00",
+            "3000.00"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 8,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "minMoneyPerKM",
+      "path": "minMoneyPerKM",
+      "count": 8,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "minMoneyPerKM",
+          "count": 8,
+          "values": ["0.40", "0.40", "0.40", "0.40", "0.40", "0.40", "0.40", "0.40"],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 8,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "type",
+      "path": "type",
+      "count": 8,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "type",
+          "count": 8,
+          "values": [
+            "Other Special Vehicle",
+            "Lorry",
+            "Executive Saloon",
+            "Installment Program Lorry",
+            "Saloon",
+            "SPV",
+            "Crane Lorry",
+            "Van"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 8,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 8,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    }
+  ],
+  "count": 8
+}

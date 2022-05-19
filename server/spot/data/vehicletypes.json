@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168e1bd"
+  },
+  "type": "Executive Saloon",
+  "mileagePerMonth": {
+    "$numberDecimal": "3000.00"
+  },
+  "averageMileage": {
+    "$numberDecimal": "500.00"
+  },
+  "minMoneyPerKM": {
+    "$numberDecimal": "0.40"
+  },
+  "maxMoneyPerKM": {
+    "$numberDecimal": "1.20"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2018-06-27T00:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168e1be"
+  },
+  "type": "Saloon",
+  "mileagePerMonth": {
+    "$numberDecimal": "3000.00"
+  },
+  "averageMileage": {
+    "$numberDecimal": "500.00"
+  },
+  "minMoneyPerKM": {
+    "$numberDecimal": "0.40"
+  },
+  "maxMoneyPerKM": {
+    "$numberDecimal": "1.20"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2018-06-27T00:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168e1bf"
+  },
+  "type": "Van",
+  "mileagePerMonth": {
+    "$numberDecimal": "3000.00"
+  },
+  "averageMileage": {
+    "$numberDecimal": "500.00"
+  },
+  "minMoneyPerKM": {
+    "$numberDecimal": "0.40"
+  },
+  "maxMoneyPerKM": {
+    "$numberDecimal": "1.20"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2018-06-27T00:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168e1c0"
+  },
+  "type": "Lorry",
+  "mileagePerMonth": {
+    "$numberDecimal": "3000.00"
+  },
+  "averageMileage": {
+    "$numberDecimal": "500.00"
+  },
+  "minMoneyPerKM": {
+    "$numberDecimal": "0.40"
+  },
+  "maxMoneyPerKM": {
+    "$numberDecimal": "1.20"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2018-06-27T00:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168e1c1"
+  },
+  "type": "SPV",
+  "mileagePerMonth": {
+    "$numberDecimal": "3000.00"
+  },
+  "averageMileage": {
+    "$numberDecimal": "500.00"
+  },
+  "minMoneyPerKM": {
+    "$numberDecimal": "0.40"
+  },
+  "maxMoneyPerKM": {
+    "$numberDecimal": "1.20"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2018-06-27T00:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168e1c2"
+  },
+  "type": "Crane Lorry",
+  "mileagePerMonth": {
+    "$numberDecimal": "3000.00"
+  },
+  "averageMileage": {
+    "$numberDecimal": "500.00"
+  },
+  "minMoneyPerKM": {
+    "$numberDecimal": "0.40"
+  },
+  "maxMoneyPerKM": {
+    "$numberDecimal": "0.70"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2018-06-27T00:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168e1c3"
+  },
+  "type": "Other Special Vehicle",
+  "mileagePerMonth": {
+    "$numberDecimal": "3000.00"
+  },
+  "averageMileage": {
+    "$numberDecimal": "500.00"
+  },
+  "minMoneyPerKM": {
+    "$numberDecimal": "0.40"
+  },
+  "maxMoneyPerKM": {
+    "$numberDecimal": "0.70"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2018-06-27T00:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "61e4d54d3b517b07b168e1c4"
+  },
+  "type": "Installment Program Lorry",
+  "mileagePerMonth": {
+    "$numberDecimal": "3000.00"
+  },
+  "averageMileage": {
+    "$numberDecimal": "500.00"
+  },
+  "minMoneyPerKM": {
+    "$numberDecimal": "0.40"
+  },
+  "maxMoneyPerKM": {
+    "$numberDecimal": "0.70"
+  },
+  "lastUpdateBy": "ph.lai",
+  "lastUpdateDate": {
+    "$date": "2018-06-27T00:00:00Z"
+  }
+}]

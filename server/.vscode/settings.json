@@ -1,0 +1,17 @@
+{
+  "files.exclude": {
+    "node_modules": true
+  },
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "zenMode.fullScreen": false,
+  "zenMode.centerLayout": false,
+  "todo-tree.filtering.excludeGlobs": [
+    "**/node_modules",
+    "**/dev-auto",
+  ]
+}

@@ -1,0 +1,2 @@
+import{r as l}from"./request.afec6a83.js";var n={getAll:()=>l.get("menu/all"),options:()=>l.get("menu/options"),getAllByRoleId:e=>l.get(`menu/${e}/all`),getList:(e,t)=>l.get("menu/list",{params:e,cancelToken:t}),edit:(e,t,m)=>l.put(`menu/${e}${m?`/${m}`:""}`,t),dele:(e,t)=>l.delete(`menu/${e}${t?`/${t}`:""}`),add:(e,t)=>l.post(`menu${t?`/${t}`:""}`,e)};export{n as m};
+//# sourceMappingURL=index.26ad1fd1.js.map

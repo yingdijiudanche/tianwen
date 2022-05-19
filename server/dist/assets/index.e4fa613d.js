@@ -1,0 +1,2 @@
+import{r as e}from"./request.afec6a83.js";var d={getList:(t,i)=>e.get("admin/list",{params:t,cancelToken:i}),getOptions:t=>e.get("admin/options",{params:t}),getDriverOptions:t=>e.get(`admin/driverOptions/${t}`),add:t=>e.post("admin",t),edit:(t,i)=>e.put(`admin/${t}`,i),editPassword:(t,i)=>e.put(`admin/${t}/password`,i),dele:t=>e.delete(`admin/${t}`)};export{d as a};
+//# sourceMappingURL=index.e4fa613d.js.map
